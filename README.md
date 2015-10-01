@@ -53,3 +53,16 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Tanuki (izakiya and Big Tit Zombie): http://www.tanukipdx.com/
  * Roscoes (divey beer bar with po boys): http://www.roscoespdx.com/
  * Bipartisan Cafe (pie!): http://www.bipartisancafe.com/
+
+#### How do I?
+
+##### Watch Sports?
+Not an endorsement, just suggestions
+
+ * [Claudias](http://claudiaspub.com/)
+ * [Spirit of 77](http://www.spiritof77bar.com/)
+ * [On Deck Sports Bar](http://ondecksportsbar.com/)
+ * [Blitz](http://www.blitzsportspubs.com/)
+ * [The Fields Bar](http://www.thefieldspdx.com/)
+ * [A&L Tavern](https://www.facebook.com/AnLsportspub)
+ * [Lil Cooperstown](http://www.lilcooperstown.com/)
