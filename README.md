@@ -1,5 +1,7 @@
 ### Portland, Oregon, USA (aka the Good One - sorry Maine)
 
+![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
+
 The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](http://www.bluestardonuts.com) and [Pips](https://www.facebook.com/PipsOriginal) are amazing.
 
 #### Travel Tips
@@ -10,7 +12,9 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Cabs have to dispatched, you can't hail them. [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and East of I-5, but NE was already taken.
+ * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
  * Couch is pronounced "cooch"
+ * This is [Bridge Town](http://www.bizave.com/portland/bridges/).
 
 #### FAQ
  * "Where can I find out about shows/events/things to do"
@@ -26,7 +30,9 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
 
 ##### Downtown / Pearl:
 
- * Powells Books - 1005 W Burnside, Portland, OR
+![Powell's Books](http://www.capstone.org/img/Powells_Book_City.jpg)
+
+ * Powell's Books - 1005 W Burnside, Portland, OR
  * Clyde Commons / Kenny Zukes / Stumptown / Pepe le Moko / Ace Hotel: one building, all of portland.
  * Multnomah Whiskey Library- worth getting here on a monday/tuesday, no wait or lines, $50 for a reservation otherwise.
  * Bailey's Tap Room: All the beers.
@@ -38,7 +44,9 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Lechon: All the meats
 
 ##### Close In SE (just over the river)
+
 ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
+
  * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food
  * [Noraneko](http://www.noranekoramen.com) - Ramen
  * [Dig A Pony](http://digaponyportland.com) - Hipsters
@@ -52,6 +60,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
 
 
 ##### NE/Alberta/Mississippi area:
+
  * Podnahs: BBQ / Brunch
  * Branch: Whiskey
  * Random Order: Pie
@@ -64,6 +73,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
  * Bye and Bye - Hi
 
 ##### Montavilla (get a cab here, spend the day, go home drunk and happy):
+
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
  * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar
  * [Country Cat](http://thecountrycat.net) - House made everything
