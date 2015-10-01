@@ -10,7 +10,7 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Cabs have to dispatched, you can't hail them. [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and East of I-5, but NE was already taken.
- * Couch is pronounced "cooch"
+ * Couch is pronounced "cooch" and Oregon is "orygun"
 
 #### FAQ
  * "Where can I find out about shows/events/things to do"
@@ -34,6 +34,8 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * TILT: Great burgers
  * Sizzle Pie
  * Lechon: All the meats
+ * Ground Kontrol: Classic arcade game bar
+ * Luc Lac: Popular Vietnamese restaurant and bar, can be very busy around peak times 
 
 ##### NE/Alberta/Mississippi area:
  * Podnahs: BBQ / Brunch
