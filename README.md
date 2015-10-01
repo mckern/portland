@@ -17,7 +17,7 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
   - Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
  * "What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?"
   - Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVar changes were a nightmare.
- * "Hey man, I here you can, like, smoke weed here or something?"
+ * "Hey man, I hear you can, like, smoke weed here or something?"
   - Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
 
 #### Neighborhoods:
