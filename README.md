@@ -6,8 +6,19 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
 
  * [TriMet](http://trimet.org) is your friend, the Max runs downtown. We have a mobile app to buy bus passes with.
  * [Transit App](http://transitapp.com) is worth the money, helps with routes once you know where are going
+  - If you are planning to take the bus, this is a good [beginners guide](http://www.portlandmercury.com/portland/youre-riding-the-bus-wrong/Content?oid=16545882)
  * Cabs have to dispatched, you can't hail them. [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
+ * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and East of I-5, but NE was already taken.
+ * Couch is pronounced "cooch"
+
+#### FAQ
+ * "Where can I find out about shows/events/things to do"
+  - Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
+ * "What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?"
+  - Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVar changes were a nightmare.
+ * "Hey man, I here you can, like, smoke weed here or something?"
+  - Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
 
 #### Neighborhoods:
 
