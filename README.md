@@ -17,7 +17,9 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
   - Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
  * "What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?"
   - Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVar changes were a nightmare.
- * "Hey man, I here you can, like, smoke weed here or something?"
+ * "There sure seems to be a lot of white people here"
+  - Our state (and city) has a painful and lasting racist history that didn't involve any wars. You can read more [here](http://gizmodo.com/oregon-was-founded-as-a-racist-utopia-1539567040).
+ * "Hey man, I hear you can, like, smoke weed here or something?"
   - Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
 
 #### Neighborhoods:
@@ -35,6 +37,20 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Sizzle Pie
  * Lechon: All the meats
 
+##### Close In SE (just over the river)
+ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
+ * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food
+ * [Noraneko](http://www.noranekoramen.com) - Ramen
+ * [Dig A Pony](http://digaponyportland.com) - Hipsters
+ * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/) - Sandwiches
+ * [Kachka](http://kachkapdx.com) - Russian Hipsters (really awesome dumplings)
+ * [Clark Lewis](http://www.clarklewispdx.com) - Formalish dining
+ * [Olympia Provisions](http://www.olympiaprovisions.com)
+ * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about) - Vegan hipsters
+ * [Le Montage Bistro](http://www.montageportland.com) - Been here forever. If you ever meet a native Portlander, chances are they had a prom dinner here.
+ * [Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)
+
+
 ##### NE/Alberta/Mississippi area:
  * Podnahs: BBQ / Brunch
  * Branch: Whiskey
@@ -44,15 +60,16 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Tasty and Sons: Brunch
  * Paadee: Thai food (better than PokPok) - http://langbaanpdx.com/ is their private dining / super awesome space
  * tapalaya: cajun tapas, great happy hour
- * Bollywood theatre
+ * Bollywood Theatre - Indian street food
+ * Bye and Bye - Hi
 
 ##### Montavilla (get a cab here, spend the day, go home drunk and happy):
- * Vintage Cocktail Lounge (best cocktails for the price in the city): http://vintagepdx.com/
- * Observatory / Over & Out (bar in the back, less crowded than front): http://www.theobservatorypdx.com/
- * Country Cat (house made everything): http://thecountrycat.net/
- * Tanuki (izakiya and Big Tit Zombie): http://www.tanukipdx.com/
- * Roscoes (divey beer bar with po boys): http://www.roscoespdx.com/
- * Bipartisan Cafe (pie!): http://www.bipartisancafe.com/
+ * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
+ * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar
+ * [Country Cat](http://thecountrycat.net) - House made everything
+ * [Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching japanese B grade horror movies while you eat kimchi and jellyfish salad
+ * [Roscoes](http://www.roscoespdx.com) - Tons of beer and po' boys. Sushi bar attached is great.
+ * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
 
 #### How do I?
 
