@@ -10,13 +10,14 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * Cabs have to dispatched, you can't hail them. [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and East of I-5, but NE was already taken.
- * Couch is pronounced "cooch"
+ * Couch is pronounced "cooch" and Oregon is "orygun"
 
 #### FAQ
  * "Where can I find out about shows/events/things to do"
   - Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
  * "What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?"
   - Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVar changes were a nightmare.
+
  * "There sure seems to be a lot of white people here"
   - Our state (and city) has a painful and lasting racist history that didn't involve any wars. You can read more [here](http://gizmodo.com/oregon-was-founded-as-a-racist-utopia-1539567040).
  * "Hey man, I hear you can, like, smoke weed here or something?"
@@ -36,6 +37,8 @@ The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](h
  * TILT: Great burgers
  * Sizzle Pie
  * Lechon: All the meats
+ * Ground Kontrol: Classic arcade game bar
+ * Luc Lac: Popular Vietnamese restaurant and bar, can be very busy around peak times
 
 ##### Close In SE (just over the river)
 ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
