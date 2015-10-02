@@ -80,7 +80,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
  * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar
  * [Country Cat](http://thecountrycat.net) - House made everything
- * [Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching japanese B grade horror movies while you eat kimchi and jellyfish salad
+ * [Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching Japanese B grade horror movies while you eat kimchi and jellyfish salad
  * [Roscoes](http://www.roscoespdx.com) - Tons of beer and po' boys. Sushi bar attached is great.
  * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
 
@@ -96,3 +96,18 @@ Not an endorsement, just suggestions
  * [The Fields Bar](http://www.thefieldspdx.com/)
  * [A&L Tavern](https://www.facebook.com/AnLsportspub)
  * [Lil Cooperstown](http://www.lilcooperstown.com/)
+
+##### Find Folks Who Play Boardgames?
+Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
+
+ * [Lucky Lab Brew Pub](http://luckylab.com/hawthorne-brew-pub/) Most every night folks can be found playing games, but Thursdays are the big board game night.
+ * [Guardian Games](http://www.ggportland.com/) Every other Sunday, starting at noon, is boardgame day. Check thier event calendar to see which Sunday it is.
+ * [My Father's Place](http://myfathersplacepdx.com/) Folks gather on Wednesdays to play at this bar.
+
+##### Find Tech Events?
+ * [Calagator](http://calagator.org/) is our home grown tech event calendar. If you are cool, you put your event here.
+ * Not everyone is cool. Some events are on Meetup. And that's okay too.
+
+##### Find a Spot to Get Some Work Done?
+  Check out [workfrom](https://workfrom.co/portland)
+
