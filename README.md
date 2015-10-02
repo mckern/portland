@@ -1,8 +1,8 @@
 ### Portland, Oregon, USA (aka the Good One - sorry Maine)
 
-![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
+The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Star](http://www.bluestardonuts.com) and [Pips](https://www.facebook.com/PipsOriginal) are amazing.
 
-The first thing you have to understand: Voodoo Donuts is bullshit, [Blue Star](http://www.bluestardonuts.com) and [Pips](https://www.facebook.com/PipsOriginal) are amazing.
+![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
 
 #### Travel Tips
 
