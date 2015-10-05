@@ -73,7 +73,8 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Powell's Books - 1005 W Burnside, Portland, OR
  * Clyde Commons / Kenny Zukes / Stumptown / Pepe le Moko / Ace Hotel: one building, all of portland.
  * Multnomah Whiskey Library- worth getting here on a monday/tuesday, no wait or lines, $50 for a reservation otherwise.
- * Bailey's Tap Room: All the beers.
+ * Bailey's Tap Room [^near-marriott]: All the beers.
+ * [Santeria](http://thesanteria.com)[^near-marriott]: "the Best Mexican Food on The Planet", allegedly (It'a really very good). Delivers to Bailey's
  * Brunchbox: all the cholesterol
  * Raven & Rose: good cocktails / food
  * Killer Burger (all over the city actually): great burgers
@@ -148,3 +149,5 @@ Portland is a great place to play a game. We have several game shops that host f
 ##### Find a Spot to Get Some Work Done?
   Check out [workfrom](https://workfrom.co/portland)
 
+
+[^near-marriott]: Within ~2 blocks of the Courtyard Marriott
