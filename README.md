@@ -86,7 +86,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 
 ##### Close In SE (just over the river)
 
-ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE
+ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-side are pretty gnarly](https://twitter.com/BillWeiss/status/648669706883174400))
 
  * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food
  * [Noraneko](http://www.noranekoramen.com) - Ramen
