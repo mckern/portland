@@ -33,25 +33,26 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 
 ##### Breweries/Brewpubs
 
-* Cascade Barrel House - The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
-* Commons Brewing - Focused on Saison/Farmhouse ales and other rustic styles. No food to speak of, but great taster trays and extremely high-quality beer. (Close-in SE)
-* Upright Brewing - Also mostly a Saison/Farmhouse specialist but with a "wilder" edge than Commons. (Close-in North Portland)
-* Ex Novo - A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
-* Reverend Nat's - Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
-* Ecliptic Brewing - Former Deschutes brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
-* Baerlic Brewing - Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
-* Breakside Brewing - fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
+* [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/) - The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
+* [Commons Brewing](http://www.commonsbrewery.com/) - Focused on Saison/Farmhouse ales and other rustic styles. No food to speak of, but great taster trays and extremely high-quality beer. (Close-in SE)
+* [Upright Brewing](http://www.uprightbrewing.com/) - Also mostly a Saison/Farmhouse specialist but with a "wilder" edge than Commons. (Close-in North Portland)
+* [Ex Novo](http://www.exnovobrew.com/) - A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
+* [Reverend Nat's](http://reverendnatshardcider.com/) - Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
+* [Ecliptic Brewing](http://eclipticbrewing.com/) - Former Deschutes brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
+* [Baerlic Brewing](http://baerlicbrewing.com/) - Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
+* [Breakside Brewing](http://www.breakside.com/) - fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
 
 ##### Beer/Cider Bars
 
 Not breweries, but places to taste a wide variety of beer from near and far.
 
-* APEX - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. (Close-in SE)
-* Bailey's - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. (Downtown)
-* Belmont Station - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
-* Saraveza - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
-* Portland Cider House - Cider specialists, for the fruit-inclined. (SE Hawthorne)
-* Bushwhacker's Cider - Another option for Cider lovers, with a SE and a North Portland location. 
+* [APEX](http://www.apexbar.com) - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. (Close-in SE)
+* [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. (Downtown)
+* [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
+* [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
+* [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
+* [Portland Cider House](http://portlandcider.com/) - Cider specialists, for the fruit-inclined. (SE Hawthorne)
+* [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location. 
 
 #### Neighborhoods:
 
