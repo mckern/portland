@@ -41,6 +41,11 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Ecliptic Brewing](http://eclipticbrewing.com/) - Former Deschutes brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
 * [Baerlic Brewing](http://baerlicbrewing.com/) - Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
 * [Breakside Brewing](http://www.breakside.com/) - fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
+* [10 Barrel Brewing](http://www.10barrel.com/) - Sadly, now owned by a giant megacorp, but the beer is still pretty darn good. (The Pearl)
+* [Fat Head's Brewing](http://fatheadsportland.com/) - Obnoxious label art but solid, hop-heavy brews. First Oregon location of this Ohio-based brewery is in the Pearl, just down from 10 Barrel, Bridgeport, and Deschutes so it's easy to bar-hop between them (see what I did there?)
+* [Deschutes](http://www.deschutesbrewery.com/pubs/portland/) - One of the originators of NW craft brewing. Still kills it with a variety of styles, especially their Porters and Stouts. (The Pearl)
+* [Bridgeport Brewing](http://www.bridgeportbrew.com/) - Credited with creating the first American IPA. Excellent food and a bustling brewpub atmosphere - a block from the previous Puppetlabs (currently Simple) office. (The Pearl)
+* [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events) - Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
 
 ##### Beer/Cider Bars
 
@@ -51,6 +56,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
 * [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
 * [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
+* [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one.
 * [Portland Cider House](http://portlandcider.com/) - Cider specialists, for the fruit-inclined. (SE Hawthorne)
 * [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location. 
 
