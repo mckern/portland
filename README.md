@@ -9,7 +9,7 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
  * [TriMet](http://trimet.org) is your friend, the Max runs downtown. We have a mobile app to buy bus passes with.
  * [Transit App](http://transitapp.com) is worth the money, helps with routes once you know where are going
   - If you are planning to take the bus, this is a good [beginners guide](http://www.portlandmercury.com/portland/youre-riding-the-bus-wrong/Content?oid=16545882)
- * Cabs have to dispatched, you can't hail them. [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
+ * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and West of I-5, but NE was already taken.
  * Couch is pronounced "cooch" and Oregon is "orygun"
