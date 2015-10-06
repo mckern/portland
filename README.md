@@ -38,9 +38,9 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Upright Brewing](http://www.uprightbrewing.com/) - Also mostly a Saison/Farmhouse specialist but with a "wilder" edge than Commons. (Close-in North Portland)
 * [Ex Novo](http://www.exnovobrew.com/) - A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
 * [Reverend Nat's](http://reverendnatshardcider.com/) - Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
-* [Ecliptic Brewing](http://eclipticbrewing.com/) - Former Deschutes brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
+* [Ecliptic Brewing](http://eclipticbrewing.com/) - Former Deschutes and Full Sail brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
 * [Baerlic Brewing](http://baerlicbrewing.com/) - Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
-* [Burnside Brewing](http://www.burnsidebrewco.com/) - Closest brewery to the Convention center, with decent lunch and solid brews. (Central Eastside)
+* [Burnside Brewing](http://www.burnsidebrewco.com/) - Closest brewery to the Convention center, with decent lunch and solid brews. Also specializes in charcuterie. (Central Eastside)
 * [Base Camp Brewing](http://basecampbrewingco.com/) - If you ever wished that REI sold beer, Base Camp will feel like home. They're primarily lager specialists, which is unusual and welcome in the land of top-fermentation. (Central Eastside)
 * [Natian Brewing](http://natianbrewery.com/) - Unsure if they have a tasting room, call first (Central Eastside)
 * [Breakside Brewing](http://www.breakside.com/) - fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
@@ -54,13 +54,14 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 
 Not breweries, but places to taste a wide variety of beer from near and far.
 
-* [APEX](http://www.apexbar.com) - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. (Close-in SE)
-* [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. (Downtown)
-* [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
+* [APEX](http://www.apexbar.com) - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. Does not sell tasters. (Close-in SE)
+* [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. Sells taster sizes. (Downtown)
+* [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. Sells taster sizes. (SE Stark/44th)
+* [Growlers Guys](http://www.thegrowlerguys.com/our-locations/oregon-portland) - Solid list of ~ 40 taps that cover west-coast favorites. Serves pints and taster sizes. (Close-in SE near Commons, Cascade Barrel House and the Green Dragon)
 * [Loyal Legion](http://loyallegionpdx.com/) - Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
 * [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
 * [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
-* [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one.
+* [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one. Does not sell taster sizes.
 * [Portland Cider House](http://portlandcider.com/) - Cider specialists, for the fruit-inclined. (SE Hawthorne)
 * [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location. 
 
