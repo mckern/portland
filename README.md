@@ -36,8 +36,7 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/) - The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
 * [Commons Brewing](http://www.commonsbrewery.com/) - Focused on Saison/Farmhouse ales and other rustic styles. No food to speak of, but great taster trays and extremely high-quality beer. (Close-in SE)
 * [Upright Brewing](http://www.uprightbrewing.com/) - Also mostly a Saison/Farmhouse specialist but with a "wilder" edge than Commons. (Close-in North Portland)
-* [Ex Novo](http://www.exnovobrew.com/) - A relatively new entrant to the PDX Brewing scene, but I like everything I've 
-* had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
+* [Ex Novo](http://www.exnovobrew.com/) - A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
 * [Reverend Nat's](http://reverendnatshardcider.com/) - Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
 * [Ecliptic Brewing](http://eclipticbrewing.com/) - Former Deschutes brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
 * [Baerlic Brewing](http://baerlicbrewing.com/) - Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
@@ -74,7 +73,8 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Powell's Books - 1005 W Burnside, Portland, OR
  * Clyde Commons / Kenny Zukes / Stumptown / Pepe le Moko / Ace Hotel: one building, all of portland.
  * Multnomah Whiskey Library- worth getting here on a monday/tuesday, no wait or lines, $50 for a reservation otherwise.
- * Bailey's Tap Room: All the beers.
+ * Bailey's Tap Room [^near-marriott]: All the beers.
+ * [Santeria](http://thesanteria.com)[^near-marriott]: "the Best Mexican Food on The Planet", allegedly (It'a really very good). Delivers to Bailey's
  * Brunchbox: all the cholesterol
  * Raven & Rose: good cocktails / food
  * Killer Burger (all over the city actually): great burgers
@@ -165,3 +165,5 @@ Portland is a great place to play a game. We have several game shops that host f
 ##### Find a Spot to Get Some Work Done?
   Check out [workfrom](https://workfrom.co/portland)
 
+
+[^near-marriott]: Within ~2 blocks of the Courtyard Marriott
