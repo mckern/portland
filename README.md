@@ -122,6 +122,22 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Roscoes](http://www.roscoespdx.com) - Tons of beer and po' boys. Sushi bar attached is great.
  * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
 
+#### Food by Genre
+
+##### Vegetarian and Vegan
+In Portland, most places will have some decent vegetarian or vegan options on the menu. However, here are some specific places to check out:
+
+ * [Farm Spirit](http://farmspiritpdx.com/) - Intimate (14-seat) vegan prix fixe. Advance tickets required. (Close In SE) *$$$$*
+ * [Natural Selection](http://www.naturalselectionpdx.com/) - 4-course prix fixe or a la carte dinner options. (NE/Alberta) *$$$*
+ * [Blossoming Lotus](http://blpdx.com/) - Vegan world fusion cuisine. (NE) *$$*
+ * [Portobello Vegan Trattoria](http://portobellopdx.com/) - Amazing and creative entrees and desserts. (Close In SE) *$$*
+ * [Dick's Kitchen](http://www.dickskitchen.com/) - Burgers, etc. with a focus on Paleo, Gluten Free, and Vegan options. (NW and SE) *$*
+ * [Laughing Planet Cafe](http://laughingplanetcafe.com/) - Quick service lunch/dinner with many vegan/vegetarian options. (Multiple Locations) *$*
+ * [Burgerville](http://www.burgerville.com/) - Local fast food chain with at least 2 vegetarian burger options. (Multiple Locations) *$*
+ * [Juniper](http://www.juniperpdx.com/) - Food cart focused on vegan comfort food. (Downtown) *$*
+ * [DC Vegetarian](http://dcvegetarian.com/) - Food cart serving vegetarian/vegan hot and cold sandwiches. (Downtown) *$*
+
+
 #### How do I?
 
 ##### Watch Sports?
