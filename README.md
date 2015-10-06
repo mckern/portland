@@ -4,6 +4,25 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
 
 ![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
 
+#### Contents
+* [Travel Tips](#travel-tips)
+* [FAQ](#faq)
+* [Brewvana](#brewvana)
+    - [Breweries/Brewpubs](#breweriesbrewpubs)
+    - [Beer/Cider Bars](#beercider-bars)
+* [Neighborhoods](#neighborhoods)
+    - [Downtown/Pearl](#downtownpearl)
+    - [Close In SE](#close-in-se-just-over-the-river)
+    - [NE/Alberta/Mississippi area](#nealbertamississippi-area)
+    - [Montavilla](#montavilla-get-a-cab-here-spend-the-day-go-home-drunk-and-happy)
+* [Food](#food-by-genre)
+    - [Vegetarian and Vegan](#vegetarian-and-vegan)
+* [How do I...](#how-do-i)
+    - [Watch Sports?](#watch-sports)
+    - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
+    - [Find Tech Events?](#find-tech-events)
+    - [Find a Spot to Get Some Work Done?](#find-a-spot-to-get-some-work-done)
+
 #### Travel Tips
 
  * [TriMet](http://trimet.org) is your friend, the Max runs downtown. We have a mobile app to buy bus passes with.
@@ -66,7 +85,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 
 #### Neighborhoods:
 
-##### Downtown / Pearl:
+##### Downtown/Pearl:
 
 ![Powell's Books](http://www.capstone.org/img/Powells_Book_City.jpg)
 
