@@ -56,6 +56,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 
 * [APEX](http://www.apexbar.com) - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. (Close-in SE)
 * [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. (Downtown)
+* [Beer Mongers](http://thebeermongers.com/) - Eight taps, hundreds of bottles and cans chilled and ready to drink. Kitty-corner from APEX. (Close-in SE) 
 * [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
 * [Loyal Legion](http://loyallegionpdx.com/) - Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
 * [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
