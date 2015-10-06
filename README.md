@@ -58,13 +58,14 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. (Downtown)
 * [Beer Mongers](http://thebeermongers.com/) - Eight taps, hundreds of bottles and cans chilled and ready to drink. Kitty-corner from APEX. (Close-in SE) 
 * [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. (SE Stark/44th)
-* [Cider Bite](https://www.facebook.com/ciderbite) - Newly-opened cider tasting bar. (MW Hoyt/13th)
-* [Loyal Legion](http://loyallegionpdx.com/) - Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
-* [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
-* [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
-* [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one.
-* [Portland Cider House](http://portlandcider.com/) - Cider specialists, for the fruit-inclined. (SE Hawthorne)
 * [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location. 
+* [Cider Bite](https://www.facebook.com/ciderbite) - Newly-opened cider tasting bar. (MW Hoyt/13th)
+* [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one.
+* [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/) - Probably the closest "deep" craft beer bar to the Convention Center.
+* [Loyal Legion](http://loyallegionpdx.com/) - Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
+* [Portland Cider House](http://portlandcider.com/) - Cider specialists, for the fruit-inclined. (SE Hawthorne)
+* [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
+* [Upper Lip](http://theupperlip.net/) - Upstairs bar, above Bailey's Taproom. A few taps, and more than 170 bottles. (Downtown)
 
 #### Neighborhoods:
 
