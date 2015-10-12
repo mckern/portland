@@ -38,13 +38,18 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
 #### FAQ
  * "Where can I find out about shows/events/things to do"
   - Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
+
  * "What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?"
   - Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVer changes were a nightmare.
 
  * "There sure seems to be a lot of white people here"
   - Our state (and city) has a painful and lasting racist history that didn't involve any wars. You can read more [here](http://gizmodo.com/oregon-was-founded-as-a-racist-utopia-1539567040).
+
  * "Hey man, I hear you can, like, smoke weed here or something?"
   - Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
+
+ * "You guys really like booze don't you?"
+  - Yup! Check out [Portland Cocktail Week](http://portlandcocktailweek.com) and while not definitive, this [cocktail map](http://pdx.eater.com/maps/best-portland-cocktail-bars) is a good starting point.
 
 #### Brewvana:
 
@@ -75,9 +80,9 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 
 * [APEX](http://www.apexbar.com) - Cash-only, bikes (motorized and non) encouraged, pinball. Arguably the best beer bar in Oregon, or maybe the United States. Does not sell tasters. (Close-in SE)
 * [Bailey's](http://www.baileystaproom.com/) - Solid tap list, mostly West Coast/Pacific NW focused. Gets crowded and loud, for a reason. Sells taster sizes. (Downtown)
-* [Beer Mongers](http://thebeermongers.com/) - Eight taps, hundreds of bottles and cans chilled and ready to drink. Friendly and relaxed staff. Kitty-corner from APEX. Sells taster sizes. (Close-in SE) 
+* [Beer Mongers](http://thebeermongers.com/) - Eight taps, hundreds of bottles and cans chilled and ready to drink. Friendly and relaxed staff. Kitty-corner from APEX. Sells taster sizes. (Close-in SE)
 * [Belmont Station](http://www.belmont-station.com/) - Beer nerd heaven. Very selective tap list and the attached bottle shop has the deepest selection in town. Sells taster sizes. (SE Stark/44th)
-* [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location. 
+* [Bushwhacker's Cider](http://www.bushwhackercider.com/) - Another option for Cider lovers, with a SE and a North Portland location.
 * [Cider Bite](https://www.facebook.com/ciderbite) - Newly-opened cider tasting bar. (MW Hoyt/13th)
 * [Green Dragon](http://pdxgreendragon.com/) - Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one. Does not sell taster sizes.
 * [Growlers Guys](http://www.thegrowlerguys.com/our-locations/oregon-portland) - Solid list of ~ 40 taps that cover west-coast favorites. Serves pints and taster sizes. (Close-in SE near Commons, Cascade Barrel House and the Green Dragon)
