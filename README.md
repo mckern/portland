@@ -107,10 +107,19 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Raven & Rose: good cocktails / food
  * Killer Burger (all over the city actually): great burgers
  * TILT: Great burgers
- * Sizzle Pie
+ * Sizzle Pie: NY style Heavy Metal Pizza Shop; vegan friendly!
  * Lechon: All the meats
  * Ground Kontrol: Classic arcade game bar
  * Luc Lac: Popular Vietnamese restaurant and bar, can be very busy around peak times
+ * Los Gorditos Burritos is just a couple of blocks from the venue
+ * Verde Cocina: fresh Mexican food, vegan friendly!
+ * Homegrown Smokehouse and Deli: a bit out of the way, but vegan barbecue!
+ * The Food Cart pod at SW 10th & Alder has some notable standouts
+    - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
+    - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
+    - [Wolf & Bear](http://www.eatwolfandbears.com/): vegan friendly!
+    - [Nong's Khao Man Gai](http://khaomangai.com/)
+    - [The Dump Truck](http://www.dumptruckpdx.com/)
 
 ##### Close In SE (just over the river)
 
@@ -164,7 +173,6 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Burgerville](http://www.burgerville.com/) - Local fast food chain with at least 2 vegetarian burger options. (Multiple Locations) *$*
  * [Juniper](http://www.juniperpdx.com/) - Food cart focused on vegan comfort food. (Downtown) *$*
  * [DC Vegetarian](http://dcvegetarian.com/) - Food cart serving vegetarian/vegan hot and cold sandwiches. (Downtown) *$*
-
 
 #### How do I?
 
