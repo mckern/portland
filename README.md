@@ -7,6 +7,10 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
 #### Contents
 * [Travel Tips](#travel-tips)
 * [FAQ](#faq)
+* [Coffee Land](#coffee-land)
+    - [Coffee Shops and Roasters](#coffee-shops-and-roasters)
+    - [Coffee Roasters](#coffee-roasters)
+    - [Coffee Shops](#coffee-shops)
 * [Brewvana](#brewvana)
     - [Breweries/Brewpubs](#breweriesbrewpubs)
     - [Beer/Cider Bars](#beercider-bars)
@@ -50,6 +54,25 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
 
  * "You guys really like booze don't you?"
   - Yup! Check out [Portland Cocktail Week](http://portlandcocktailweek.com) and while not definitive, this [cocktail map](http://pdx.eater.com/maps/best-portland-cocktail-bars) is a good starting point.
+
+#### Coffee Land:
+
+Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33R4XhU) by the popular sketch-comedy show Portlandia and for good reason: Portland has a lot of great coffee.
+
+##### Coffee Shops and Roasters
+* [Coava Coffee](http://coavacoffee.com/)
+* [Heart Roasters](http://www.heartroasters.com/)
+* [Ristretto Roasters](http://ristrettoroasters.com/)
+* [Stumptown Coffee](http://www.stumptowncoffee.com/)
+* [Water Avenue Coffee](http://wateravenuecoffee.com/)
+
+##### Coffee Roasters
+* [Roseline Coffee](http://roselinecoffee.com/)
+
+##### Coffee Shops
+* [Barista](http://baristapdx.com/)
+* [Either/Or Coffee](https://www.facebook.com/EitherOrCafe/)
+* [Good Coffee](http://goodcoffeepdx.com/)
 
 #### Brewvana:
 
