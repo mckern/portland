@@ -150,15 +150,13 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
 
  * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food
  * [Noraneko](http://www.noranekoramen.com) - Ramen
- * [Dig A Pony](http://digaponyportland.com) - Hipsters
+ * [Dig A Pony](http://digaponyportland.com) - Trendy-ish Normals
  * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/) - Sandwiches
  * [Kachka](http://kachkapdx.com) - Russian Hipsters (really awesome dumplings)
  * [Clark Lewis](http://www.clarklewispdx.com) - Formalish dining
  * [Olympia Provisions](http://www.olympiaprovisions.com)
  * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about) - Vegan hipsters
  * [Le Montage Bistro](http://www.montageportland.com) - Been here forever. If you ever meet a native Portlander, chances are they had a prom dinner here.
- * [Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)
-
 
 ##### NE/Alberta/Mississippi area:
 
