@@ -1,6 +1,8 @@
 ### Portland, Oregon, USA (aka the Good One - sorry Maine)
 
-The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Star](http://www.bluestardonuts.com) and [Pips](https://www.facebook.com/PipsOriginal) are amazing.
+The first thing you have to understand: Voodoo Donuts is a tourist-trap that
+sells tarted-up grocery store donuts. If that's what you're looking for, great.
+Otherwise, try some other shops in the Food section.
 
 ![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
 
@@ -21,6 +23,7 @@ The first thing you have to understand: Voodoo Donuts is **bullshit**, [Blue Sta
     - [Montavilla](#montavilla-get-a-cab-here-spend-the-day-go-home-drunk-and-happy)
 * [Food](#food-by-genre)
     - [Vegetarian and Vegan](#vegetarian-and-vegan)
+    - [Donuts](#donut-shops)
 * [How do I...](#how-do-i)
     - [Watch Sports?](#watch-sports)
     - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
@@ -196,6 +199,18 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Burgerville](http://www.burgerville.com/) - Local fast food chain with at least 2 vegetarian burger options. (Multiple Locations) *$*
  * [Juniper](http://www.juniperpdx.com/) - Food cart focused on vegan comfort food. (Downtown) *$*
  * [DC Vegetarian](http://dcvegetarian.com/) - Food cart serving vegetarian/vegan hot and cold sandwiches. (Downtown) *$*
+
+##### Donut Shops
+ * [Blue Star Donuts](http://www.bluestardonuts.com/) - billed as the
+   anti-Voodoo Doughnuts. Made with a brioche recipe.
+ * [Pips Original Doughnuts](https://www.facebook.com/PipsOriginal) - Fresh,
+   made-to-order cake donuts.
+ * [Tonalli's Donuts & Cream](http://www.yelp.com/biz/tonallis-donuts-and-cream-portland-2) -
+ Classic donuts, as well as some originals. Try the deep-fried banana buttermilk
+ bar.
+ * [Delicious Donuts](http://www.deliciousdonutspdx.com/)
+ * [Coco Donuts](http://cocodonuts.com/)
+ * [Helen Bernhard Bakery](http://www.helenbernhardbakery.com/)
 
 #### How do I?
 
