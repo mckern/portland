@@ -1,8 +1,8 @@
 ### Portland, Oregon, USA (aka the Good One - sorry Maine)
 
 The first thing you have to understand: Voodoo Donuts is a tourist-trap that
-sells tarted-up grocery store donuts. If that's what you're looking for, great.
-Otherwise, try some other shops in the Food section.
+sells tarted-up grocery store donuts. They aren't worth the line.
+We have much better [Donuts](#donut-shops)
 
 ![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
 
