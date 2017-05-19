@@ -37,6 +37,7 @@ We have much better [Donuts](#donut-shops)
   - If you are planning to take the bus, this is a good [beginners guide](http://www.portlandmercury.com/portland/youre-riding-the-bus-wrong/Content?oid=16545882)
  * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
+ * Those orange biks you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provide.
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and West of I-5, but NE was already taken.
  * Couch is pronounced "cooch" and Oregon is "orygun"
  * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
