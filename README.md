@@ -37,7 +37,7 @@ We have much better [Donuts](#donut-shops)
   - If you are planning to take the bus, this is a good [beginners guide](http://www.portlandmercury.com/portland/youre-riding-the-bus-wrong/Content?oid=16545882)
  * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
- * Those orange bikes you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provide). Per their [User Agreement](https://www.biketownpdx.com/rental-agreement) [email their legal team](mailto:legal@motivateco.com) with subject header "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" if you don't want to be bound to their arbitration rules.
+ * Those orange bikes you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provided). Per their [User Agreement](https://www.biketownpdx.com/rental-agreement) - [email their legal team](mailto:legal@motivateco.com) with subject header "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" if you don't want to be bound to their arbitration rules.
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and West of I-5, but NE was already taken.
  * Couch is pronounced "cooch" and Oregon is "orygun"
  * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
@@ -64,6 +64,8 @@ We have much better [Donuts](#donut-shops)
 Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33R4XhU) by the popular sketch-comedy show Portlandia and for good reason: Portland has a lot of great coffee.
 
 ##### Coffee Shops and Roasters
+* [Cup And Bar](http://www.cupandbar.com/)
+* [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
 * [Heart Roasters](http://www.heartroasters.com/)
 * [Ristretto Roasters](http://ristrettoroasters.com/)
@@ -182,7 +184,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
  * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar
  * [Country Cat](http://thecountrycat.net) - House made everything
- * ~~[Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching Japanese B grade horror movies while you eat kimchi and jellyfish salad~~ Cannot recommend anymore, service has declined 
+ * ~~[Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching Japanese B grade horror movies while you eat kimchi and jellyfish salad~~ Cannot recommend anymore, service has declined
  * [Roscoes](http://www.roscoespdx.com) - Tons of beer and po' boys. Sushi bar attached is great.
  * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
 
