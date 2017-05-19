@@ -37,7 +37,7 @@ We have much better [Donuts](#donut-shops)
   - If you are planning to take the bus, this is a good [beginners guide](http://www.portlandmercury.com/portland/youre-riding-the-bus-wrong/Content?oid=16545882)
  * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
  * We have Lyft and that other company also
- * Those orange biks you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provide.
+ * Those orange bikes you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provide). Per their [User Agreement](https://www.biketownpdx.com/rental-agreement) [email their legal team](mailto:legal@motivateco.com) with subject header "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" if you don't want to be bound to their arbitration rules.
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and West of I-5, but NE was already taken.
  * Couch is pronounced "cooch" and Oregon is "orygun"
  * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
@@ -152,7 +152,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 
 ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-side are pretty gnarly](https://twitter.com/BillWeiss/status/648669706883174400))
 
- * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food
+ * [Bit House Saloon](http://www.bithousesaloon.com) - New cocktails and food. Great mixed drinks
  * [Noraneko](http://www.noranekoramen.com) - Ramen
  * [Dig A Pony](http://digaponyportland.com) - Hipsters
  * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/) - Sandwiches
@@ -161,7 +161,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Olympia Provisions](http://www.olympiaprovisions.com)
  * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about) - Vegan hipsters
  * [Le Montage Bistro](http://www.montageportland.com) - Been here forever. If you ever meet a native Portlander, chances are they had a prom dinner here.
- * [Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)
+ * ~~[Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)~~ Now [Home Bar](http://www.homebarpdx.com/) - Ain't terrible
 
 
 ##### NE/Alberta/Mississippi area:
@@ -182,7 +182,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
  * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar
  * [Country Cat](http://thecountrycat.net) - House made everything
- * [Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching Japanese B grade horror movies while you eat kimchi and jellyfish salad
+ * ~~[Tanuki](http://www.tanukipdx.com) - Izakiya and Big Tit Zombie - don't bother if you have allergies or dietary restrictions or don't like watching Japanese B grade horror movies while you eat kimchi and jellyfish salad~~ Cannot recommend anymore, service has declined 
  * [Roscoes](http://www.roscoespdx.com) - Tons of beer and po' boys. Sushi bar attached is great.
  * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
 
