@@ -64,7 +64,6 @@ We have much better [Donuts](#donut-shops)
 Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33R4XhU) by the popular sketch-comedy show Portlandia and for good reason: Portland has a lot of great coffee.
 
 ##### Coffee Shops and Roasters
-* [Cup And Bar](http://www.cupandbar.com/)
 * [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
 * [Heart Roasters](http://www.heartroasters.com/)
@@ -79,6 +78,7 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 * [Barista](http://baristapdx.com/)
 * [Either/Or Coffee](https://www.facebook.com/EitherOrCafe/)
 * [Good Coffee](http://goodcoffeepdx.com/)
+* [Cup And Bar](http://www.cupandbar.com/)
 
 #### Brewvana:
 
