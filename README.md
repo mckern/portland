@@ -66,6 +66,7 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 ##### Coffee Shops and Roasters
 * [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
+* [Elevator Cafe and Commons](http://www.elevatorpdx.com/)
 * [Heart Roasters](http://www.heartroasters.com/)
 * [Ristretto Roasters](http://ristrettoroasters.com/)
 * [Stumptown Coffee](http://www.stumptowncoffee.com/)
