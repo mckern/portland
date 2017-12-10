@@ -233,8 +233,9 @@ Not an endorsement, just suggestions
 Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
 
  * [Lucky Lab Brew Pub](http://luckylab.com/hawthorne-brew-pub/) Most every night folks can be found playing games, but Thursdays are the big board game night.
- * [Guardian Games](http://www.ggportland.com/) Every other Sunday, starting at noon, is boardgame day. Check thier event calendar to see which Sunday it is.
+ * [Guardian Games](http://www.ggportland.com/) Every other Sunday, starting at noon, is boardgame day. Check their event calendar to see which Sunday it is.
  * [My Father's Place](http://myfathersplacepdx.com/) Folks gather on Wednesdays to play at this bar.
+ * [Game Knight Lounge](http://pdxgameknight.com/) A bar dedicated to playing board games. Small cover charge gets you access to their impressive game library.
 
 ##### Find Tech Events?
  * [Calagator](http://calagator.org/) is our home grown tech event calendar. If you are cool, you put your event here.
