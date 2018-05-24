@@ -64,9 +64,11 @@ We have much better [Donuts](#donut-shops)
 Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33R4XhU) by the popular sketch-comedy show Portlandia and for good reason: Portland has a lot of great coffee.
 
 ##### Coffee Shops and Roasters
+* [Case Study Coffee Roasters](https://www.casestudycoffee.com/)
 * [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
 * [Elevator Cafe and Commons](http://www.elevatorpdx.com/)
+* [Extracto Coffee Roasters](http://www.extractocoffee.com/)
 * [Heart Roasters](http://www.heartroasters.com/)
 * [Ristretto Roasters](http://ristrettoroasters.com/)
 * [Stumptown Coffee](http://www.stumptowncoffee.com/)
@@ -139,8 +141,8 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * TILT: Great burgers
  * Sizzle Pie: NY style Heavy Metal Pizza Shop; vegan friendly!
  * Lechon: All the meats
- * Ground Kontrol: Classic arcade game bar
- * Luc Lac: Popular Vietnamese restaurant and bar, can be very busy around peak times
+ * [Ground Kontrol](https://groundkontrol.com/): Classic arcade game bar
+ * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times
  * Los Gorditos Burritos is just a couple of blocks from the venue
  * Verde Cocina: fresh Mexican food, vegan friendly!
  * Homegrown Smokehouse and Deli: a bit out of the way, but vegan barbecue!
@@ -159,7 +161,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Noraneko](http://www.noranekoramen.com) - Ramen
  * [Dig A Pony](http://digaponyportland.com) - Hipsters
  * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/) - Sandwiches
- * [Kachka](http://kachkapdx.com) - Russian Hipsters (really awesome dumplings)
+ * [Kachka](http://kachkapdx.com) - Russian Hipsters (really awesome dumplings), Vodka flights
  * [Clark Lewis](http://www.clarklewispdx.com) - Formalish dining
  * [Olympia Provisions](http://www.olympiaprovisions.com)
  * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about) - Vegan hipsters
@@ -169,16 +171,19 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
 
 ##### NE/Alberta/Mississippi area:
 
- * Podnahs: BBQ / Brunch
- * Branch: Whiskey
+ * [Podnah's Pit](http://www.podnahspit.com/): BBQ / Brunch
  * Random Order: Pie
  * Bridge City Comics: Comics
  * Meadow: Cocktail bitters, salts, chocolates
- * Tasty and Sons: Brunch
+ * [Tasty n Sons](http://www.tastynsons.com/): Brunch
  * Paadee: Thai food (better than PokPok) - http://langbaanpdx.com/ is their private dining / super awesome space
  * tapalaya: cajun tapas, great happy hour
- * Bollywood Theatre - Indian street food
- * Bye and Bye - Hi
+ * [Bollywood Theatre](http://www.bollywoodtheaterpdx.com/) - Indian street food
+ * [The Bye and Bye](http://thebyeandbye.com/) - Hi
+ * [Teote Mezcaleria](http://www.teotepdx.com/): "Latin Street Food", Mezcal flights and cocktails.
+ * [Wilder Bar](http://www.wilderpdx.com/): Cozy neighborhood bar, friendly, good cocktails.
+ * [Expatriate](http://expatriatepdx.com/): Delicious cocktails and snacks. Really good brunch, too!
+ * [Broder Nord](https://www.broderpdx.com/): Nordic fare. Great brunch. Lots of Aquavit.
 
 ##### Montavilla (get a cab here, spend the day, go home drunk and happy):
 
@@ -203,15 +208,14 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Burgerville](http://www.burgerville.com/) - Local fast food chain with at least 2 vegetarian burger options. (Multiple Locations) *$*
  * [Juniper](http://www.juniperpdx.com/) - Food cart focused on vegan comfort food. (Downtown) *$*
  * [DC Vegetarian](http://dcvegetarian.com/) - Food cart serving vegetarian/vegan hot and cold sandwiches. (Downtown) *$*
+ * [The Sudra](http://www.thesudra.com/) - Indian-inspired. (Close in NE) *$$*
 
 ##### Donut Shops
  * [Blue Star Donuts](http://www.bluestardonuts.com/) - billed as the
    anti-Voodoo Doughnuts. Made with a brioche recipe.
  * [Pips Original Doughnuts](https://www.facebook.com/PipsOriginal) - Fresh,
    made-to-order cake donuts.
- * [Tonalli's Donuts & Cream](http://www.yelp.com/biz/tonallis-donuts-and-cream-portland-2) -
- Classic donuts, as well as some originals. Try the deep-fried banana buttermilk
- bar.
+ * [Angel's Donuts & Ice Cream](https://www.yelp.com/biz/angels-donuts-and-ice-cream-portland-2) - Formerly Tonalli's, but same owner. Classic donuts, as well as some originals. Try the deep-fried banana buttermilk bar.
  * [Delicious Donuts](http://www.deliciousdonutspdx.com/)
  * [Coco Donuts](http://cocodonuts.com/)
  * [Helen Bernhard Bakery](http://www.helenbernhardbakery.com/)
