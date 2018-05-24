@@ -160,7 +160,6 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times
  * Los Gorditos Burritos: Popular local Mexican restaurant
  * Verde Cocina: Fresh Mexican food, vegan friendly!
- * Homegrown Smokehouse and Deli: a bit out of the way, but vegan barbecue!
  * The Food Cart pod at SW 10th & Alder has some notable standouts
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
     - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
