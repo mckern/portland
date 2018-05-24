@@ -1,14 +1,15 @@
-### Portland, Oregon, USA (aka the Good One - sorry Maine)
+# Portland, Oregon, USA
+## AKA the Good One &mdash; sorry Maine
 
-The first thing you have to understand: Voodoo Donuts is a tourist-trap that
-sells tarted-up grocery store donuts. They aren't worth the line.
-We have much better [Donuts](#donut-shops)
+Hi! Hello! Welcome! Before we begin, the first thing we want you to understand is that **Voodoo Donuts is a tourist-trap** that sells tarted-up grocery store donuts and they aren't worth the line. We have much better [Donuts](#donut-shops).
+
+With that out of the way, we're happy to have you here. Here's a list of stuff to do in town.
 
 ![Portland front](http://blog.newrelic.com/wp-content/uploads/portland_stag.png)
 
-#### Contents
+# Contents
 
-<!-- MarkdownTOC levels="4,5" autolink="true" autoanchor="true" -->
+<!-- MarkdownTOC levels="1,2" autolink="true" autoanchor="false" -->
 
 - [Travel Tips](#travel-tips)
 - [FAQ](#faq)
@@ -35,8 +36,7 @@ We have much better [Donuts](#donut-shops)
 
 <!-- /MarkdownTOC -->
 
-<a id="travel-tips"></a>
-#### Travel Tips
+# Travel Tips
 
  * [TriMet](http://trimet.org) is your friend, the Max runs downtown. We have a mobile app to buy bus passes with.
  * [Transit App](http://transitapp.com) is worth the money, helps with routes once you know where are going
@@ -49,32 +49,34 @@ We have much better [Donuts](#donut-shops)
  * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
  * This is [Bridge Town](http://www.bizave.com/portland/bridges/).
 
-<a id="faq"></a>
-#### FAQ
-<dl>
-  <dt>Where can I find out about shows/events/things to do?</dt>
-  <dd>Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)</dd>
+# FAQ
 
-  <dt>What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?</dt>
-  <dd>Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVer changes were a nightmare.</dd>
+### Where can I find out about shows/events/things to do?
 
-  <dt>There sure seems to be a lot of white people here...</dt>
-  <dd>Our state (and city) has a painful and lasting racist history that didn't involve any wars. You can read more [here](http://gizmodo.com/oregon-was-founded-as-a-racist-utopia-1539567040).</dd>
+Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
 
-  <dt>Hey man, I hear you can, like, smoke weed here or something?</dt>
-  <dd>Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)</dd>
+### What is up with the old builings with numbers that aren't their number? I got lost in this place called Ladd's Addition?
 
-  <dt>You folks really like booze don't you?</dt>
-  <dd>Yup! Check out [Portland Cocktail Week](http://portlandcocktailweek.com) and while not definitive, this [cocktail map](http://pdx.eater.com/maps/best-portland-cocktail-bars) is a good starting point.</dd>
+Read up on the [Great Renumbering](http://www.portlandmercury.com/portland/off-the-grid/Content?oid=8271672), and if you thought SemVer changes were a nightmare.
+
+### There sure seems to be a lot of white people here&hellip;
+
+Our state (and city) has a painful and lasting racist history that didn't involve any wars. You can read more [here](http://gizmodo.com/oregon-was-founded-as-a-racist-utopia-1539567040).
+
+### Hey man, I hear you can, like, smoke weed here or something?
+
+Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
+
+### You folks really like booze don't you?
+
+Yup! Check out [Portland Cocktail Week](http://portlandcocktailweek.com) and while not definitive, this [cocktail map](http://pdx.eater.com/maps/best-portland-cocktail-bars) is a good starting point.
 </dl>
 
-<a id="coffee-land"></a>
-#### Coffee Land:
+# Coffee Land:
 
 Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33R4XhU) by the popular sketch-comedy show Portlandia and for good reason: Portland has a lot of great coffee.
 
-<a id="coffee-shops-and-roasters"></a>
-##### Coffee Shops and Roasters
+## Coffee Shops and Roasters
 * [Case Study Coffee Roasters](https://www.casestudycoffee.com/)
 * [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
@@ -85,24 +87,20 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 * [Stumptown Coffee](http://www.stumptowncoffee.com/)
 * [Water Avenue Coffee](http://wateravenuecoffee.com/)
 
-<a id="coffee-roasters"></a>
-##### Coffee Roasters
+## Coffee Roasters
 * [Roseline Coffee](http://roselinecoffee.com/)
 
-<a id="coffee-shops"></a>
-##### Coffee Shops
+## Coffee Shops
 * [Barista](http://baristapdx.com/)
 * [Either/Or Coffee](https://www.facebook.com/EitherOrCafe/)
 * [Good Coffee](http://goodcoffeepdx.com/)
 * [Cup And Bar](http://www.cupandbar.com/)
 
-<a id="brewvana"></a>
-#### Brewvana:
+# Brewvana:
 
 Portland's often called "Brewvana" due to the amazing number of craft breweries and cider-houses, beer bars, and general pub scene. Here's an opinionated (via @ahpook) selection of the best of the crop, with their Neighborhood in parenthesis:
 
-<a id="breweriesbrewpubs"></a>
-##### Breweries/Brewpubs
+## Breweries/Brewpubs
 
 * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/) - The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
 * [Commons Brewing](http://www.commonsbrewery.com/) - Focused on Saison/Farmhouse ales and other rustic styles. No food to speak of, but great taster trays and extremely high-quality beer. (Close-in SE)
@@ -121,8 +119,7 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Bridgeport Brewing](http://www.bridgeportbrew.com/) - Credited with creating the first American IPA. Excellent food and a bustling brewpub atmosphere - a block from the previous Puppetlabs (currently Simple) office. (The Pearl)
 * [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events) - Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
 
-<a id="beercider-bars"></a>
-##### Beer/Cider Bars
+## Beer/Cider Bars
 
 Not breweries, but places to taste a wide variety of beer from near and far.
 
@@ -140,11 +137,9 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
 * [Upper Lip](http://theupperlip.net/) - Upstairs bar, above Bailey's Taproom. A few taps, and more than 170 bottles. (Downtown)
 
-<a id="neighborhoods"></a>
-#### Neighborhoods:
+# Neighborhoods:
 
-<a id="downtownpearl"></a>
-##### Downtown/Pearl:
+## Downtown/Pearl:
 
 ![Powell's Books](http://www.capstone.org/img/Powells_Book_City.jpg)
 
@@ -171,9 +166,8 @@ Not breweries, but places to taste a wide variety of beer from near and far.
     - [Nong's Khao Man Gai](http://khaomangai.com/)
     - [The Dump Truck](http://www.dumptruckpdx.com/)
 
-<a id="close-in-se"></a>
-##### Close In SE
-###### Just over the river
+## Close In SE
+### Just over the river
 
 ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-side are pretty gnarly](https://twitter.com/BillWeiss/status/648669706883174400))
 
@@ -189,8 +183,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * ~~[Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)~~ Now [Home Bar](http://www.homebarpdx.com/) - Ain't terrible
 
 
-<a id="nealbertamississippi-area"></a>
-##### NE/Alberta/Mississippi area:
+## NE/Alberta/Mississippi area:
 
  * [Podnah's Pit](http://www.podnahspit.com/): BBQ / Brunch
  * Random Order: Pie
@@ -206,10 +199,9 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Expatriate](http://expatriatepdx.com/): Delicious cocktails and snacks. Really good brunch, too!
  * [Broder Nord](https://www.broderpdx.com/): Nordic fare. Great brunch. Lots of Aquavit.
 
-<a id="montavilla"></a>
-##### Montavilla:
+## Montavilla:
 <a id="get-a-cab-here-spend-the-day-go-home-drunk-and-happy"></a>
-###### get a cab here, spend the day, go home drunk and happy
+### get a cab here, spend the day, go home drunk and happy
 
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
  * [Observatory / Over & Out](http://www.theobservatorypdx.com) - Great food, Over&Out in back is their less crowded bar (its a Mullet Bar - formal in the front, party in the back)
@@ -219,11 +211,9 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Bipartisan Cafe](http://www.bipartisancafe.com) - Pie!
  * [Red Wood](http://redwoodpdx.com/) - Standard gastro pub fare, some southwest flavors, beef tongue, etc.
 
-<a id="food-by-genre"></a>
-#### Food by Genre
+# Food by Genre
 
-<a id="vegetarian-and-vegan"></a>
-##### Vegetarian and Vegan
+## Vegetarian and Vegan
 In Portland, most places will have some decent vegetarian or vegan options on the menu. However, here are some specific places to check out:
 
  * [Farm Spirit](http://farmspiritpdx.com/) - Intimate (14-seat) vegan prix fixe. Advance tickets required. (Close In SE) *$$$$*
@@ -236,8 +226,7 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [DC Vegetarian](http://dcvegetarian.com/) - Food cart serving vegetarian/vegan hot and cold sandwiches. (Downtown) *$*
  * [The Sudra](http://www.thesudra.com/) - Indian-inspired. (Close in NE) *$$*
 
-<a id="donut-shops"></a>
-##### Donut Shops
+## Donut Shops
  * [Blue Star Donuts](http://www.bluestardonuts.com/) - billed as the
    anti-Voodoo Doughnuts. Made with a brioche recipe.
  * [Pips Original Doughnuts](https://www.facebook.com/PipsOriginal) - Fresh,
@@ -247,11 +236,9 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Coco Donuts](http://cocodonuts.com/)
  * [Helen Bernhard Bakery](http://www.helenbernhardbakery.com/)
 
-<a id="how-do-i"></a>
-#### How do I?
+# How do I?
 
-<a id="watch-sports"></a>
-##### Watch Sports?
+## Watch Sports?
 Not an endorsement, just suggestions
 
  * [Claudias](http://claudiaspub.com/)
@@ -262,8 +249,7 @@ Not an endorsement, just suggestions
  * [A&L Tavern](https://www.facebook.com/AnLsportspub)
  * [Lil Cooperstown](http://www.lilcooperstown.com/)
 
-<a id="find-folks-who-play-boardgames"></a>
-##### Find Folks Who Play Boardgames?
+## Find Folks Who Play Boardgames?
 Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
 
  * [Lucky Lab Brew Pub](http://luckylab.com/hawthorne-brew-pub/) Most every night folks can be found playing games, but Thursdays are the big board game night.
@@ -271,13 +257,11 @@ Portland is a great place to play a game. We have several game shops that host f
  * [My Father's Place](http://myfathersplacepdx.com/) Folks gather on Wednesdays to play at this bar.
  * [Game Knight Lounge](http://pdxgameknight.com/) A bar dedicated to playing board games. Small cover charge gets you access to their impressive game library.
 
-<a id="find-tech-events"></a>
-##### Find Tech Events?
+## Find Tech Events?
  * [Calagator](http://calagator.org/) is our home grown tech event calendar. If you are cool, you put your event here.
  * Not everyone is cool. Some events are on Meetup. And that's okay too.
 
-<a id="find-a-spot-to-get-some-work-done"></a>
-##### Find a Spot to Get Some Work Done?
+## Find a Spot to Get Some Work Done?
   Check out [workfrom](https://workfrom.co/portland)
 
 
