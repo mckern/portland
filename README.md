@@ -17,19 +17,19 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
   - [Coffee Shops and Roasters](#coffee-shops-and-roasters)
   - [Coffee Roasters](#coffee-roasters)
   - [Coffee Shops](#coffee-shops)
-- [Brewvana:](#brewvana)
+- [Brewvana](#brewvana)
   - [Breweries/Brewpubs](#breweriesbrewpubs)
   - [Beer/Cider Bars](#beercider-bars)
-- [Neighborhoods:](#neighborhoods)
-  - [Downtown/Pearl:](#downtownpearl)
+- [Neighborhoods](#neighborhoods)
+  - [Downtown &amp; Pearl](#downtown--pearl)
   - [Close In SE](#close-in-se)
-  - [NE/Alberta/Mississippi area:](#nealbertamississippi-area)
-  - [Montavilla:](#montavilla)
+  - [NE/Alberta/Mississippi area](#nealbertamississippi-area)
+  - [Montavilla](#montavilla)
 - [Food by Genre](#food-by-genre)
   - [Vegetarian and Vegan](#vegetarian-and-vegan)
   - [Donut Shops](#donut-shops)
-- [How do I?](#how-do-i)
-  - [Watch Sports?](#watch-sports)
+- [How do I &hellip;?](#how-do-i-hellip)
+  - [Watch Sports](#watch-sports)
   - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
   - [Find Tech Events?](#find-tech-events)
   - [Find a Spot to Get Some Work Done?](#find-a-spot-to-get-some-work-done)
@@ -96,7 +96,7 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 * [Good Coffee](http://goodcoffeepdx.com/)
 * [Cup And Bar](http://www.cupandbar.com/)
 
-# Brewvana:
+# Brewvana
 
 Portland's often called "Brewvana" due to the amazing number of craft breweries and cider-houses, beer bars, and general pub scene. Here's an opinionated (via @ahpook) selection of the best of the crop, with their Neighborhood in parenthesis:
 
@@ -137,27 +137,29 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Saraveza](http://saraveza.com/) - Wisconsin-worshipping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
 * [Upper Lip](http://theupperlip.net/) - Upstairs bar, above Bailey's Taproom. A few taps, and more than 170 bottles. (Downtown)
 
-# Neighborhoods:
+# Neighborhoods
 
-## Downtown/Pearl:
+## Downtown &amp; Pearl
 
 ![Powell's Books](http://www.capstone.org/img/Powells_Book_City.jpg)
 
- * Powell's Books - 1005 W Burnside, Portland, OR
+ * Powell's Books: a city block of books, roughly 4 stories high.
  * Clyde Commons / Kenny Zukes / Stumptown / Pepe le Moko / Ace Hotel: one building, all of portland.
- * Multnomah Whiskey Library- worth getting here on a monday/tuesday, no wait or lines, $50 for a reservation otherwise.
- * Bailey's Tap Room [^near-marriott]: All the beers.
- * [Santeria](http://thesanteria.com)[^near-marriott]: "the Best Mexican Food on The Planet", allegedly (It'a really very good). Delivers to Bailey's
- * Brunchbox: all the cholesterol
+ * Multnomah Whiskey Library: worth getting here on a Monday/Tuesday, no wait or lines, $50 for a reservation otherwise.
+ * Bailey's Tap Room: All the beers
+ * Lechon: All the meats
+ * Brunchbox: All the cholesterol
+ * [Santeria](http://thesanteria.com): "the Best Mexican Food on The Planet", allegedly
+      (It'a really very good). Beware though, it shares a bathroom with Mary's (the stripclub next door).
+      Delivers to Bailey's
  * Raven & Rose: good cocktails / food
- * Killer Burger (all over the city actually): great burgers
+ * Killer Burger (A local chain): Serviceable burgers
  * TILT: Great burgers
  * Sizzle Pie: NY style Heavy Metal Pizza Shop; vegan friendly!
- * Lechon: All the meats
  * [Ground Kontrol](https://groundkontrol.com/): Classic arcade game bar
  * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times
- * Los Gorditos Burritos is just a couple of blocks from the venue
- * Verde Cocina: fresh Mexican food, vegan friendly!
+ * Los Gorditos Burritos: Popular local Mexican restaurant
+ * Verde Cocina: Fresh Mexican food, vegan friendly!
  * Homegrown Smokehouse and Deli: a bit out of the way, but vegan barbecue!
  * The Food Cart pod at SW 10th & Alder has some notable standouts
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
@@ -167,7 +169,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
     - [The Dump Truck](http://www.dumptruckpdx.com/)
 
 ## Close In SE
-### Just over the river
+### Just over the river!
 
 ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-side are pretty gnarly](https://twitter.com/BillWeiss/status/648669706883174400))
 
@@ -183,7 +185,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * ~~[Morrison Hotel](http://www.mohobar.com/map.html) - Proper dive, owned by a dedicated Red Sox fan (fuck the yankees)~~ Now [Home Bar](http://www.homebarpdx.com/) - Ain't terrible
 
 
-## NE/Alberta/Mississippi area:
+## NE/Alberta/Mississippi area
 
  * [Podnah's Pit](http://www.podnahspit.com/): BBQ / Brunch
  * Random Order: Pie
@@ -199,8 +201,7 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE ([The stairs on the north-sid
  * [Expatriate](http://expatriatepdx.com/): Delicious cocktails and snacks. Really good brunch, too!
  * [Broder Nord](https://www.broderpdx.com/): Nordic fare. Great brunch. Lots of Aquavit.
 
-## Montavilla:
-<a id="get-a-cab-here-spend-the-day-go-home-drunk-and-happy"></a>
+## Montavilla
 ### get a cab here, spend the day, go home drunk and happy
 
  * [Vintage Cocktail Lounge](http://vintagepdx.com) - Best cocktails for the price in the city
@@ -236,10 +237,10 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Coco Donuts](http://cocodonuts.com/)
  * [Helen Bernhard Bakery](http://www.helenbernhardbakery.com/)
 
-# How do I?
+# How do I &hellip;?
 
-## Watch Sports?
-Not an endorsement, just suggestions
+## Watch Sports
+### Not really endorsements, just suggestions
 
  * [Claudias](http://claudiaspub.com/)
  * [Spirit of 77](http://www.spiritof77bar.com/)
@@ -258,11 +259,9 @@ Portland is a great place to play a game. We have several game shops that host f
  * [Game Knight Lounge](http://pdxgameknight.com/) A bar dedicated to playing board games. Small cover charge gets you access to their impressive game library.
 
 ## Find Tech Events?
- * [Calagator](http://calagator.org/) is our home grown tech event calendar. If you are cool, you put your event here.
- * Not everyone is cool. Some events are on Meetup. And that's okay too.
+ * [Calagator](http://calagator.org/) is our home grown tech event calendar.
+ * [Some](https://www.meetup.com/pdxpython/) [events](https://www.meetup.com/CodeOregon/) [are](https://www.meetup.com/startupPDX/) [on](https://www.meetup.com/Portland-DevOps-GroundUp/) [Meetup](https://www.meetup.com/portland-ruby-brigade/). And that's okay.
+ * [Portland Tech Events](http://portlandtech.org/events.html) has an extensive list of local events.
 
 ## Find a Spot to Get Some Work Done?
   Check out [workfrom](https://workfrom.co/portland)
-
-
-[^near-marriott]: Within ~2 blocks of the Courtyard Marriott
