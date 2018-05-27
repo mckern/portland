@@ -118,7 +118,7 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [10 Barrel Brewing](http://www.10barrel.com/): Sadly, now owned by a giant megacorp, but the beer is still pretty darn good. (The Pearl)
 * [Von Ebert Brewing](http://vonebertbrewing.com/): Previously Ohio-based Fat Head brewing, but now an independent brewery. In the Pearl, just down from 10 Barrel, Bridgeport, and Deschutes so it's easy to bar-hop between them (see what I did there?)
 * [Deschutes](http://www.deschutesbrewery.com/pubs/portland/): One of the originators of NW craft brewing. Still kills it with a variety of styles, especially their Porters and Stouts. (The Pearl)
-* [Bridgeport Brewing](http://www.bridgeportbrew.com/): Credited with creating the first American IPA. Excellent food and a bustling brewpub atmosphere &mdash; a block from the previous Puppetlabs (currently Simple) office. (The Pearl)
+* [Bridgeport Brewing](http://www.bridgeportbrew.com/): Credited with creating the first American IPA. Excellent food and a bustling brewpub atmosphere (The Pearl)
 * [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events): Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
 
 
