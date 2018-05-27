@@ -145,7 +145,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 ![Powell's Books](https://imgur.com/AsOfEhR.jpg)
 
  * Powell's Books: a city block of books, roughly 4 stories high.
- * Clyde Commons / Kenny Zukes / Stumptown / Pepe le Moko / Ace Hotel: one building, all of portland.
+ * Clyde Commons / Kenny &amp; Zukes / Stumptown Coffee / Pepe le Moko / Ace Hotel: one building, all of Portlandia.
  * Multnomah Whiskey Library: worth getting here on a Monday/Tuesday, no wait or lines, $50 for a reservation otherwise.
  * Bailey's Tap Room: All the beers
  * Lechon: All the meats
