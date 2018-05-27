@@ -263,4 +263,4 @@ Portland is a great place to play a game. We have several game shops that host f
  * [Portland Tech Events](http://portlandtech.org/events.html) has an extensive list of local events.
 
 ## Find a Spot to Get Some Work Done?
-  Check out [workfrom](https://workfrom.co/portland)
+  Check out [workfrom](https://workfrom.co/portland) or [our libraries](https://multcolib.org/hours-and-locations)
