@@ -31,6 +31,7 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
   - [Bagels](#bagels)
 - [How do I &hellip;?](#how-do-i-hellip)
   - [Watch Sports?](#watch-sports)
+  - [Play Pinball?](#play-pinball)
   - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
   - [Find Tech Events?](#find-tech-events)
   - [Find a Spot to Get Some Work Done?](#find-a-spot-to-get-some-work-done)
@@ -257,6 +258,10 @@ The Pacific Northwest has a contentious relationship with bagels: they're often 
  * [The Fields Bar](http://www.thefieldspdx.com/)
  * [A&L Tavern](https://www.facebook.com/AnLsportspub)
  * [Lil Cooperstown](http://www.lilcooperstown.com/)
+
+## Play Pinball?
+* [Ground Kontrol](https://groundkontrol.com/) has a selection of pinball machines, as well as many, many arcade upright cabinets
+* [Quarter World](http://www.quarterworldarcade.com) is across the river from downtown, and maintains an extensive collection of pinball machines
 
 ## Find Folks Who Play Boardgames?
 Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
