@@ -28,6 +28,7 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
 - [Food by Genre](#food-by-genre)
   - [Vegetarian and Vegan](#vegetarian-and-vegan)
   - [Donut Shops](#donut-shops)
+  - [Bagels](#bagels)
 - [How do I &hellip;?](#how-do-i-hellip)
   - [Watch Sports?](#watch-sports)
   - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
@@ -235,6 +236,14 @@ In Portland, most places will have some decent vegetarian or vegan options on th
  * [Delicious Donuts](http://www.deliciousdonutspdx.com/)
  * [Coco Donuts](http://cocodonuts.com/)
  * [Helen Bernhard Bakery](http://www.helenbernhardbakery.com/)
+
+## Bagels
+
+The Pacific Northwest has a contentious relationship with bagels: they're often just bread circles sold in super markets here, as many places do not boil them. If you'd like a real bagel, here's a handful of places we've found. [Willamette Week has a list](http://www.wweek.com/restaurants/2017/02/21/every-boiled-bagel-in-portland-ranked/) that was current as of 2017 but may be outdated now.
+
+* [Henry Higgins Boiled Bagels](http://www.hhboiledbagels.com): the Everything Bagel has salt on it.
+* [Kornblatt's Deli](http://kornblattsdelipdx.com): they will run out of bagels by early afternoon, so get there early if you want to get them to go.
+* 
 
 # How do I &hellip;?
 
