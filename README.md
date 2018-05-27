@@ -29,7 +29,7 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
   - [Vegetarian and Vegan](#vegetarian-and-vegan)
   - [Donut Shops](#donut-shops)
 - [How do I &hellip;?](#how-do-i-hellip)
-  - [Watch Sports](#watch-sports)
+  - [Watch Sports?](#watch-sports)
   - [Find Folks Who Play Boardgames?](#find-folks-who-play-boardgames)
   - [Find Tech Events?](#find-tech-events)
   - [Find a Spot to Get Some Work Done?](#find-a-spot-to-get-some-work-done)
@@ -238,7 +238,7 @@ In Portland, most places will have some decent vegetarian or vegan options on th
 
 # How do I &hellip;?
 
-## Watch Sports
+## Watch Sports?
 ### Not really endorsements, just suggestions
 
  * [Claudias](http://claudiaspub.com/)
@@ -252,10 +252,10 @@ In Portland, most places will have some decent vegetarian or vegan options on th
 ## Find Folks Who Play Boardgames?
 Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
 
- * [Lucky Lab Brew Pub](http://luckylab.com/hawthorne-brew-pub/) Most every night folks can be found playing games, but Thursdays are the big board game night.
- * [Guardian Games](http://www.ggportland.com/) Every other Sunday, starting at noon, is boardgame day. Check their event calendar to see which Sunday it is.
- * [My Father's Place](http://myfathersplacepdx.com/) Folks gather on Wednesdays to play at this bar.
- * [Game Knight Lounge](http://pdxgameknight.com/) A bar dedicated to playing board games. Small cover charge gets you access to their impressive game library.
+ * [Lucky Lab Brew Pub](http://luckylab.com/hawthorne-brew-pub/): Most every night folks can be found playing games, but Thursdays are the big board game night.
+ * [Guardian Games](http://www.ggportland.com/): Every other Sunday, starting at noon, is boardgame day. Check their event calendar to see which Sunday it is.
+ * [My Father's Place](http://myfathersplacepdx.com/): Folks gather on Wednesdays to play at this bar.
+ * [Game Knight Lounge](http://pdxgameknight.com/): A bar dedicated to playing board games. Small cover charge gets you access to their impressive game library.
 
 ## Find Tech Events?
  * [Calagator](http://calagator.org/) is our home grown tech event calendar.
