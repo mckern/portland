@@ -253,6 +253,10 @@ Portland is a great place to play a game. We have several game shops that host f
  * [Calagator](http://calagator.org/) is our home grown tech event calendar. If you are cool, you put your event here.
  * Not everyone is cool. Some events are on Meetup. And that's okay too.
 
+##### Do exercise?
+ * [Ironside Training](https://www.ironsidetraining.com/) A great gym for strength training. Bonus: One of the most inclusive gyms I've seen in Portland. Day passes avaliable.
+ * [Loprinzi's Gym](http://www.loprinzisgym.com/) A bit grimy, the equipment isn't the newest, but there's something charming about the place. Day passes avaliable.
+
 ##### Find a Spot to Get Some Work Done?
   Check out [workfrom](https://workfrom.co/portland)
 
