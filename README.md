@@ -8,6 +8,7 @@ We have much better [Donuts](#donut-shops)
 
 #### Contents
 * [Travel Tips](#travel-tips)
+  - [Pronunciation Guide](#pronunciation-guide)
 * [FAQ](#faq)
 * [Coffee Land](#coffee-land)
     - [Coffee Shops and Roasters](#coffee-shops-and-roasters)
@@ -39,9 +40,16 @@ We have much better [Donuts](#donut-shops)
  * We have Lyft and that other company also
  * Those orange bikes you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provided). Per their [User Agreement](https://www.biketownpdx.com/rental-agreement) - [email their legal team](mailto:legal@motivateco.com) with subject header "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" if you don't want to be bound to their arbitration rules. Also note that due to Biketown's relationship to the Nike company, the service is most commonly pronounced as "Bikey [rhymes with Nike] town".
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamete and West of I-5, but NE was already taken.
- * Couch is pronounced "cooch" and Oregon is "orygun"
  * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
  * This is [Bridge Town](http://www.bizave.com/portland/bridges/).
+
+##### Pronunciation Guide
+* **Willamette** /wəˈlæmɪt/ "wuh-LA-mit", rhymes with 'dammit'
+* **Couch**      /kutʃ/     "cooch"
+* **Glisan**     /ˈglisən/  "GLEE-sin"
+* **Kearney**    /ˈkʌɹni/   "KUR-nee"
+* **Going**      /gɔɪŋ/     "goyng", rhymes with 'boing'
+* **Savior**     /ˈseɪvjəɹ/ "SAY-vyer", sounds like 'savior'
 
 #### FAQ
  * "Where can I find out about shows/events/things to do"
