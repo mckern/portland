@@ -44,6 +44,7 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
 
  * **BREAKING NEWS for 2018** Get yourself to [Multnomah Falls](https://en.wikipedia.org/wiki/Multnomah_Falls) via the [GorgeExpress](http://columbiagorgeexpress.com). Parking out there is a pain anyway, so this simplifies it a lot.
  * Our local public transit system is called [TriMet](http://trimet.org), and their light rail service is called the MAX. You can use a mobile app to buy tickets for the train and bus, or you'll need [a Hop Card](https://www.myhopcard.com), which you can get at any [Fred Meyer](https://www.fredmeyer.com) or 7-11 in town
+   - TriMet recently rolled out support for [paying with your cellphone](https://myhopcard.com/home/#/pay-with-your-phone). If you use GooglePay, Samsung Pay, or Apple Pay then there's no need to buy a ticket or install a separate app
    - Google Maps and Apple Maps both have a good understanding of our public transit infrastructure, and they can navigate you around town reasonably well
  * [Transit App](http://transitapp.com) is worth the money if you'll be using public transit frequently &mdash; it can helps with routes once you know where you're going
  * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
