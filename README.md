@@ -287,7 +287,8 @@ Portland is a great place to play a game. We have several game shops that host f
 
 ## Find a Gym?
  * [Ironside Training](https://www.ironsidetraining.com/) A great gym for strength training. Bonus: One of the most inclusive gyms I've seen in Portland. Day passes avaliable.
- * [Loprinzi's Gym](http://www.loprinzisgym.com/) A bit grimy, the equipment isn't the newest, but there's something charming about the place. Day passes avaliable.
+ * [Strength Union](https://www.strengthunion.com/) Home to some of the strongest Powerlifters in Oregon. This gym has tons of equipment that would make any powerlifter happy!
+ * [Crossfit Magnus](https://www.crossfitmagnus.com/) A welcoming gym that specializes in the olympic lifts.
 
 ## Find a Spot to Get Some Work Done?
   Check out [WorkFrom](https://workfrom.co/portland) or [our libraries](https://multcolib.org/hours-and-locations)
