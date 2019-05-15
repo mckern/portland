@@ -113,13 +113,11 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 ## Breweries/Brewpubs
 
 * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/): The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
-* [Commons Brewing](http://www.commonsbrewery.com/): Focused on Saison/Farmhouse ales and other rustic styles. No food to speak of, but great taster trays and extremely high-quality beer. (Close-in SE)
-* [Upright Brewing](http://www.uprightbrewing.com/): Also mostly a Saison/Farmhouse specialist but with a "wilder" edge than Commons. (Close-in North Portland)
+* [Upright Brewing](http://www.uprightbrewing.com/): Mostly a Saison/Farmhouse specialist. (Close-in North Portland)
 * [Ex Novo](http://www.exnovobrew.com/): A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
 * [Reverend Nat's](http://reverendnatshardcider.com/): Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
 * [Ecliptic Brewing](http://eclipticbrewing.com/): Former Deschutes and Full Sail brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
 * [Baerlic Brewing](http://baerlicbrewing.com/): Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
-* [Burnside Brewing](http://www.burnsidebrewco.com/): Closest brewery to the Convention center, with decent lunch and solid brews. Also specializes in charcuterie. (Central Eastside)
 * [Base Camp Brewing](http://basecampbrewingco.com/): If you ever wished that REI sold beer, Base Camp will feel like home. They're primarily lager specialists, which is unusual and welcome in the land of top-fermentation. (Central Eastside)
 * [Natian Brewing](http://natianbrewery.com/): Unsure if they have a tasting room, call first (Central Eastside)
 * [Breakside Brewing](http://www.breakside.com/): fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
