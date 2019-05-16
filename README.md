@@ -169,6 +169,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Los Gorditos Burritos: Popular local Mexican restaurant
  * [Floating World](https://floatingworldcomics.com): Comics, around the corner from Ground Kontrol
  * Verde Cocina: Fresh Mexican food, vegan friendly!
+ * [Nong's Khao Man Gai](http://khaomangai.com/): a brick and mortar location, located a short walk from the original cart
  * The Food Cart pod at SW 10th & Alder has some notable standouts
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
     - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
