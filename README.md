@@ -173,8 +173,6 @@ Not breweries, but places to taste a wide variety of beer from near and far.
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
     - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
     - [Wolf & Bear](http://www.eatwolfandbears.com/): vegan friendly!
-    - [Nong's Khao Man Gai](http://khaomangai.com/)
-    - [The Dump Truck](http://www.dumptruckpdx.com/)
 
 ## Close In SE
 ### Just over the river!
