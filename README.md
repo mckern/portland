@@ -24,6 +24,7 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
 - [Neighborhoods](#neighborhoods)
   - [Downtown &amp; Pearl](#downtown--pearl)
   - [Close In SE](#close-in-se)
+  - [SE/Division area](#sedivision-area)
   - [NE/Alberta/Mississippi area](#nealbertamississippi-area)
   - [Montavilla](#montavilla)
 - [Food by Genre](#food-by-genre)
@@ -191,6 +192,9 @@ ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE (The stairs on the north-side
  * [Le Montage Bistro](http://www.montageportland.com): Been here forever. If you ever meet a native Portlander, chances are they had a prom dinner here.
  * [Home Bar](http://www.homebarpdx.com/): Ain't terrible
 
+## SE/Division area
+* [Tasty n Daughters](http://www.tastyndaughters.com/): Brunch
+
 ## NE/Alberta/Mississippi area
 
 PokPok is resting on its laurels. Whiskey Soda Lounge is fine, but friends don't let friends go to PokPok.
@@ -199,9 +203,9 @@ PokPok is resting on its laurels. Whiskey Soda Lounge is fine, but friends don't
  * Random Order: Pie
  * Bridge City Comics: Comics
  * Meadow: Cocktail bitters, salts, chocolates
- * [Tasty n Sons](http://www.tastynsons.com/): Brunch
  * Paadee: Thai food (better than PokPok): http://langbaanpdx.com/ is their private dining / super awesome space
- * tapalaya: cajun tapas, great happy hour
+ * [Hat Yai](http://hatyaipdx.com/): Thai fried chicken and curry w/ roti; small space, might have a line
+ * Tapalaya: cajun tapas, great happy hour
  * [Bollywood Theatre](http://www.bollywoodtheaterpdx.com/): Indian street food
  * [The Bye and Bye](http://thebyeandbye.com/): Hi
  * [Teote Mezcaleria](http://www.teotepdx.com/): "Latin Street Food", Mezcal flights and cocktails.
