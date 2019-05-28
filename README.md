@@ -91,6 +91,7 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 * [Case Study Coffee Roasters](https://www.casestudycoffee.com/)
 * [Cellar Door](https://www.cellardoorcoffee.com/)
 * [Coava Coffee](http://coavacoffee.com/)
+* [Deadstock Coffee](http://www.deadstockcoffee.com/)
 * [Elevator Cafe and Commons](http://www.elevatorpdx.com/)
 * [Extracto Coffee Roasters](http://www.extractocoffee.com/)
 * [Heart Roasters](http://www.heartroasters.com/)
