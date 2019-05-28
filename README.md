@@ -273,6 +273,11 @@ The Pacific Northwest has a contentious relationship with bagels: they're often 
 * [Ground Kontrol](https://groundkontrol.com/) has a selection of pinball machines, as well as many, many arcade upright cabinets
 * [Quarter World](http://www.quarterworldarcade.com) is across the river from downtown, and maintains an extensive collection of pinball machines
 
+## Play Ping Pong/Table Tennis?
+* [Pips & Bounce](http://www.pipsandbounce.com) is [featured on NYTimes](https://www.nytimes.com/2017/06/30/travel/portland-oregon-ping-pong-bars-table-tennis.html) as "a bar in southeast Portland that places at least as much emphasis on nets and paddles as it does on gin and vermouth"
+* [Portland Table Tennis Club](http://www.portlandtabletennis.com) is a more serious, competitive club. $5 walk-in, $3 for students and kids
+* [Paddle Palace Club](http://www.paddlepalaceclub.com): The most pretigious and expensive club ($12 last time I checked). There're a lot of top players in Oregon here. The [Paddle Palace store](https://www.paddlepalace.com) is also a major equipment seller in the US
+
 ## Find Folks Who Play Boardgames?
 Portland is a great place to play a game. We have several game shops that host formal game nights/afternoons/events; allow informal playing in their stores; and have in-store game libraries you can use. We also have a variety of weekly show-up-at-this-bar-and-play events. A few public game nights are:
 
