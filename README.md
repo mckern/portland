@@ -127,6 +127,7 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Von Ebert Brewing](http://vonebertbrewing.com/): Previously Ohio-based Fat Head brewing, but now an independent brewery. In the Pearl, just down from 10 Barrel and Deschutes so it's easy to bar-hop between them (see what I did there?)
 * [Deschutes](http://www.deschutesbrewery.com/pubs/portland/): One of the originators of NW craft brewing. Still kills it with a variety of styles, especially their Porters and Stouts. (The Pearl)
 * [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events): Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
+* [Wayfinder](https://www.wayfinder.beer/): good all-around selection with exceptional European styles (Central Eastside)
 
 
 ## Beer/Cider Bars
@@ -140,7 +141,6 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Bushwhacker's Cider](http://www.bushwhackercider.com/): Another option for Cider lovers, with a SE and a North Portland location.
 * [Cider Bite](https://www.facebook.com/ciderbite): Newly-opened cider tasting bar. (MW Hoyt/13th)
 * [Green Dragon](http://pdxgreendragon.com/): Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one. Does not sell taster sizes.
-* [Growlers Guys](http://www.thegrowlerguys.com/our-locations/oregon-portland): Solid list of ~ 40 taps that cover west-coast favorites. Serves pints and taster sizes. (Close-in SE near Commons, Cascade Barrel House and the Green Dragon)
 * [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/): Probably the closest "deep" craft beer bar to the Convention Center.
 * [Loyal Legion](http://loyallegionpdx.com/): Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
 * [Portland Cider House](http://portlandcider.com/): Cider specialists, for the fruit-inclined. (SE Hawthorne)
