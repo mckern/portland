@@ -44,15 +44,15 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
 # Travel Tips
 
  * **BREAKING NEWS for 2018** Get yourself to [Multnomah Falls](https://en.wikipedia.org/wiki/Multnomah_Falls) via the [GorgeExpress](http://columbiagorgeexpress.com). Parking out there is a pain anyway, so this simplifies it a lot.
- * Our local public transit system is called [TriMet](http://trimet.org), and their light rail service is called the MAX. You can use a mobile app to buy tickets for the train and bus, or you'll need [a Hop Card](https://www.myhopcard.com), which you can get at any [Fred Meyer](https://www.fredmeyer.com) or 7-11 in town
-   - TriMet recently rolled out support for [paying with your cellphone](https://myhopcard.com/home/#/pay-with-your-phone). If you use GooglePay, Samsung Pay, or Apple Pay then there's no need to buy a ticket or install a separate app
-   - Google Maps and Apple Maps both have a good understanding of our public transit infrastructure, and they can navigate you around town reasonably well
- * [Transit App](http://transitapp.com) is worth the money if you'll be using public transit frequently &mdash; it can helps with routes once you know where you're going
+ * Our local public transit system is called [TriMet](http://trimet.org), and their light rail service is called the MAX. You can use a mobile app to buy tickets for the train and bus, or you'll need [a Hop Card](https://www.myhopcard.com), which you can get at any [Fred Meyer](https://www.fredmeyer.com) or 7-11 in town.
+   - TriMet recently rolled out support for [paying with your cellphone](https://myhopcard.com/home/#/pay-with-your-phone). If you use GooglePay, Samsung Pay, or Apple Pay then there's no need to buy a ticket or install a separate app.
+   - Google Maps and Apple Maps both have a good understanding of our public transit infrastructure, and they can navigate you around town reasonably well.
+ * [Transit App](http://transitapp.com) is worth the money if you'll be using public transit frequently &mdash; it can helps with routes once you know where you're going.
  * Cabs have to dispatched, you can't hail them. The exception is for taxi stands (Amtrak Station, Airport, in front of Hotels). [Radio Cab](http://www.radiocab.net) is a standby. Use [Curb](https://gocurb.com) to handle payments and dispatch from your phone.
- * We have Lyft and that other company also, if you insist
+ * We have Lyft and that other company also, if you insist.
  * Those orange bikes you see around town are available on-demand through the [BikeTown program](https://www.biketownpdx.com). You'll have to register but the experience is supposed to be pretty painless overall (helmets are not provided). The program comes with caveats related to monthly fees and cancellation fees, and per their [User Agreement](https://www.biketownpdx.com/rental-agreement) - [email their legal team](mailto:legal@motivateco.com) with subject header "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" if you don't want to be bound to their arbitration rules. Also note that due to Biketown's relationship to the Nike company, the service is most commonly and incorrectly pronounced as "Bikey town".
  * There are Five Quadrants: Burnside divides North/South, Willamette and I-5 East/West. Our magical fifth quadrant is North Portland, which is North of the Willamette and West of I-5, but NE was already taken.
- * In parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
+ * In some parts of town, streets running East/West are in alphabetical order. North/South Streets are numbered. It's easy to get around.
  * This is [Bridge Town](http://www.bizave.com/portland/bridges/).
 
 ## Pronunciation Guide
@@ -60,12 +60,12 @@ With that out of the way, we're happy to have you here. Here's a list of stuff t
 * **Couch**      /kutʃ/     "cooch"
 * **Glisan**     /ˈglisən/  "GLEE-sin"
 * **Going**      /gɔɪŋ/     "goyng", rhymes with 'boing'
-* **Savior**     /ˈseɪvjəɹ/ "SAY-vyer", sounds like 'savior'
+* **Savier**     /ˈseɪvjəɹ/ "SAY-vyer", sounds like 'savior'
 
 ## FAQ
 ### Where can I find out about shows/events/things to do?
 
-Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com)
+Our two free weekly papers got you covered: [Willamette Week](http://www.wweek.com) and [Portland Mercury](http://www.portlandmercury.com).
 
 ### What is up with the old buildings with numbers that aren't their number? I got lost in this place called Ladd's Addition?
 
@@ -77,7 +77,7 @@ Our state (and city) has a painful and lasting racist history that didn't involv
 
 ### Hey man, I hear you can, like, smoke weed here or something?
 
-Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/)
+Of no surprise, our free newspapers got you covered [there also](http://www.wweek.com/2015/10/01/2365/).
 
 ### You folks really like booze don't you?
 
@@ -110,21 +110,21 @@ Portland was given the name [Coffee Land](https://www.youtube.com/watch?v=uRtx33
 
 # Brewvana
 
-Portland's often called "Brewvana" due to the amazing number of craft breweries and cider-houses, beer bars, and general pub scene. Here's an opinionated (via @ahpook) selection of the best of the crop, with their Neighborhood in parenthesis:
+Portland's often called "Brewvana" due to the amazing number of craft breweries and cider-houses, beer bars, and general pub scene. Here's an opinionated (via @ahpook) selection of the best of the crop, with their Neighborhood in parentheses:
 
 ## Breweries/Brewpubs
 
 * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/): The "House of Sour", specialists in barrel-aged, fruited lambic and gueuze styles. Not to be missed. (Close-in SE)
 * [Upright Brewing](http://www.uprightbrewing.com/): Mostly a Saison/Farmhouse specialist. (Close-in North Portland)
 * [Ex Novo](http://www.exnovobrew.com/): A relatively new entrant to the PDX Brewing scene, but I like everything I've had from them, especially their "Eliot" IPA and "Wonder Twins" Rye IIPA. (Close-in North Portland)
-* [Reverend Nat's](http://reverendnatshardcider.com/): Cider house. Innovative, challenging, occasionally undrinkable but always interesting (Close-in North Portland)
-* [Ecliptic Brewing](http://eclipticbrewing.com/): Former Deschutes and Full Sail brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave (North Portland)
+* [Reverend Nat's](http://reverendnatshardcider.com/): Cider house. Innovative, challenging, occasionally undrinkable but always interesting. (Close-in North Portland)
+* [Ecliptic Brewing](http://eclipticbrewing.com/): Former Deschutes and Full Sail brewmaster, great mix of traditional and experimental styles, tasty pub fare and a very cool setting at the South end of hoppin' Mississippi Ave. (North Portland)
 * [Baerlic Brewing](http://baerlicbrewing.com/): Also relatively new, mostly English styles like Bitters, Cream Ales, and an amazing Stout. No food served. (Close-in SE)
 * [Base Camp Brewing](http://basecampbrewingco.com/): If you ever wished that REI sold beer, Base Camp will feel like home. They're primarily lager specialists, which is unusual and welcome in the land of top-fermentation. (Central Eastside)
-* [Natian Brewing](http://natianbrewery.com/): Unsure if they have a tasting room, call first (Central Eastside)
-* [Breakside Brewing](http://www.breakside.com/): fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
+* [Natian Brewing](http://natianbrewery.com/): Unsure if they have a tasting room, call first. (Central Eastside)
+* [Breakside Brewing](http://www.breakside.com/): Fantastic food and award-winning beer. *Mostly* lives up to the hype. (Dekum/North Portland)
 * [10 Barrel Brewing](http://www.10barrel.com/): Sadly, now owned by a giant megacorp, but the beer is still pretty darn good. (The Pearl)
-* [Von Ebert Brewing](http://vonebertbrewing.com/): Previously Ohio-based Fat Head brewing, but now an independent brewery. In the Pearl, just down from 10 Barrel and Deschutes so it's easy to bar-hop between them (see what I did there?)
+* [Von Ebert Brewing](http://vonebertbrewing.com/): Previously Ohio-based Fat Head brewing, but now an independent brewery. In the Pearl, just down from 10 Barrel and Deschutes so it's easy to bar-hop between them. (see what I did there?)
 * [Deschutes](http://www.deschutesbrewery.com/pubs/portland/): One of the originators of NW craft brewing. Still kills it with a variety of styles, especially their Porters and Stouts. (The Pearl)
 * [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events): Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
 
@@ -140,11 +140,11 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 * [Bushwhacker's Cider](http://www.bushwhackercider.com/): Another option for Cider lovers, with a SE and a North Portland location.
 * [Cider Bite](https://www.facebook.com/ciderbite): Newly-opened cider tasting bar. (MW Hoyt/13th)
 * [Green Dragon](http://pdxgreendragon.com/): Owned by Rogue, but fortunately serves beers other than their house brands. 50 taps including a "secret" one. Does not sell taster sizes.
-* [Growlers Guys](http://www.thegrowlerguys.com/our-locations/oregon-portland): Solid list of ~ 40 taps that cover west-coast favorites. Serves pints and taster sizes. (Close-in SE near Commons, Cascade Barrel House and the Green Dragon)
+* [Growlers Guys](http://www.thegrowlerguys.com/our-locations/oregon-portland): Solid list of ~ 40 taps that cover west-coast favorites. Serves pints and taster sizes. (Close-in SE near Commons, Cascade Barrel House and the Green Dragon.)
 * [Hop Haven](https://www.facebook.com/Hop-Haven-Beer-Bar-and-Bottle-Shop-134805263237894/timeline/): Probably the closest "deep" craft beer bar to the Convention Center.
 * [Loyal Legion](http://loyallegionpdx.com/): Busy and fun, 99 taps (not all of which are always lit up) and beer-boiled sausages. (Close-in SE)
 * [Portland Cider House](http://portlandcider.com/): Cider specialists, for the fruit-inclined. (SE Hawthorne)
-* [Saraveza](http://saraveza.com/): Wisconsin-worshiping "Cheers" vibe. Good bottle choices, small but well-curated tap list (North Portland)
+* [Saraveza](http://saraveza.com/): Wisconsin-worshiping "Cheers" vibe. Good bottle choices, small but well-curated tap list. (North Portland)
 * [Upper Lip](http://theupperlip.net/): Upstairs bar, above Bailey's Taproom. A few taps, and more than 170 bottles. (Downtown)
 
 # Neighborhoods
@@ -156,23 +156,23 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Powell's Books: a city block of books, roughly 4 stories high.
  * Clyde Commons / Kenny &amp; Zukes / Stumptown Coffee / Pepe le Moko / Ace Hotel: one building, all of Portlandia.
  * Multnomah Whiskey Library: worth getting here on a Monday/Tuesday, no wait or lines, $50 for a reservation otherwise.
- * Bailey's Tap Room: All the beers
- * Lechon: All the meats
- * Brunchbox: All the cholesterol
- * [Santeria](http://thesanteria.com): allegedly "the Best Mexican Food on The Planet" (It *is* pretty good). Beware though, it shares a bathroom with Mary's (the strip club next door).
+ * Bailey's Tap Room: All the beers.
+ * Lechon: All the meats.
+ * Brunchbox: All the cholesterol.
+ * [Santeria](http://thesanteria.com): Allegedly "the Best Mexican Food on The Planet." (It *is* pretty good). Beware though, it shares a bathroom with Mary's (the strip club next door).
    - Delivers to Bailey's across the street!
- * Raven & Rose: good cocktails / food
- * Killer Burger (A local chain): Serviceable burgers
- * TILT: Great burgers
+ * Raven & Rose: Good cocktails and food.
+ * Killer Burger (A local chain): Serviceable burgers.
+ * TILT: Great burgers.
  * Sizzle Pie: NY style Heavy Metal Pizza Shop; vegan friendly!
- * [Ground Kontrol](https://groundkontrol.com/): Classic arcade game bar
- * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times
- * Los Gorditos Burritos: Popular local Mexican restaurant
- * [Floating World](https://floatingworldcomics.com): Comics, around the corner from Ground Kontrol
+ * [Ground Kontrol](https://groundkontrol.com/): Classic arcade game bar.
+ * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times.
+ * Los Gorditos Burritos: Popular local Mexican restaurant.
+ * [Floating World](https://floatingworldcomics.com): Comics, around the corner from Ground Kontrol.
  * Verde Cocina: Fresh Mexican food, vegan friendly!
- * [Vault](https://www.vaultpdx.com/) - sister bar of @mrzarquon's favorite neighborhood bar [Vintage](http://vintagepdx.com/), great cocktails and happy hour food selection in the Pearl
- * [Nong's Khao Man Gai](http://khaomangai.com/): a brick and mortar location, located a short walk from the original cart
- * The Food Cart pod at SW 10th & Alder has some notable standouts
+ * [Vault](https://www.vaultpdx.com/) - Sister bar of @mrzarquon's favorite neighborhood bar [Vintage](http://vintagepdx.com/), great cocktails and happy hour food selection in the Pearl.
+ * [Nong's Khao Man Gai](http://khaomangai.com/): A brick and mortar location, located a short walk from the original cart. You think this is just chicken and rice, but it's amazing chicken and rice. 
+ * The Food Cart pod at SW 10th & Alder has some notable standouts.
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
     - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
     - [Wolf & Bear](http://www.eatwolfandbears.com/): vegan friendly!
@@ -180,18 +180,18 @@ Not breweries, but places to taste a wide variety of beer from near and far.
 ## Close In SE
 ### Just over the river!
 
-ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE (The stairs on the north-side can get pretty gnarly, e.g. trash, excrement, etc.)
+ALWAYS CROSS THE MORRISON BRIDGE ON THE SOUTH SIDE! (The stairs on the north-side can get pretty gnarly, e.g. trash, excrement, etc.)
 
- * [Bit House Saloon](http://www.bithousesaloon.com): New cocktails and food. Great mixed drinks
- * [Noraneko](http://www.noranekoramen.com): Ramen
- * [Dig A Pony](http://digaponyportland.com): Hipsters
- * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/): Sandwiches
- * [Kachka](http://kachkapdx.com): Russian Hipsters (really awesome dumplings), Vodka flights
- * [Clark Lewis](http://www.clarklewispdx.com): Formalish dining
+ * [Bit House Saloon](http://www.bithousesaloon.com): New cocktails and food. Great mixed drinks.
+ * [Noraneko](http://www.noranekoramen.com): Ramen.
+ * [Dig A Pony](http://digaponyportland.com): Hipsters.
+ * [Bunk Bar](http://www.bunksandwiches.com/bunkbar/): Sandwiches.
+ * [Kachka](http://kachkapdx.com): Russian Hipsters (really awesome dumplings), Vodka flights.
+ * [Clark Lewis](http://www.clarklewispdx.com): Formalish dining.
  * [Olympia Provisions](http://www.olympiaprovisions.com)
- * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about): Vegan hipsters
+ * [White Owl Social Club](http://www.whiteowlsocialclub.com/#about): Vegan hipsters.
  * [Le Montage Bistro](http://www.montageportland.com): Been here forever. If you ever meet a native Portlander, chances are they had a prom dinner here.
- * [Home Bar](http://www.homebarpdx.com/): Ain't terrible
+ * [Home Bar](http://www.homebarpdx.com/): Ain't terrible.
 
 ## SE/Division area
 * [Tasty n Daughters](http://www.tastyndaughters.com/): Brunch
@@ -204,9 +204,9 @@ PokPok is resting on its laurels. Whiskey Soda Lounge is fine, but friends don't
  * Random Order: Pie
  * Bridge City Comics: Comics
  * Meadow: Cocktail bitters, salts, chocolates
- * Paadee: Thai food (better than PokPok): http://langbaanpdx.com/ is their private dining / super awesome space
- * [Hat Yai](http://hatyaipdx.com/): Thai fried chicken and curry w/ roti; small space, might have a line
- * Tapalaya: cajun tapas, great happy hour
+ * Paadee: Thai food (better than PokPok): http://langbaanpdx.com/ is their private dining / super awesome space.
+ * [Hat Yai](http://hatyaipdx.com/): Thai fried chicken and curry w/ roti; small space, might have a line.
+ * Tapalaya: cajun tapas, great happy hour.
  * [Bollywood Theatre](http://www.bollywoodtheaterpdx.com/): Indian street food
  * [The Bye and Bye](http://thebyeandbye.com/): Hi
  * [Teote Mezcaleria](http://www.teotepdx.com/): "Latin Street Food", Mezcal flights and cocktails.
@@ -219,7 +219,6 @@ PokPok is resting on its laurels. Whiskey Soda Lounge is fine, but friends don't
 
  * [Vintage Cocktail Lounge](http://vintagepdx.com): Best cocktails for the price in the city
  * [Observatory / Over &amp; Out](http://www.theobservatorypdx.com): Great food, Over &amp; Out in back is their less crowded bar (it's a Mullet Bar &mdash; formal in the front, party in the back)
- * [Country Cat](http://thecountrycat.net): House made everything
  * [Roscoes](http://www.roscoespdx.com): Tons of beer and po' boys. Sushi bar attached is great.
  * [Bipartisan Cafe](http://www.bipartisancafe.com): Pie!
  * [Red Wood](http://redwoodpdx.com/): Standard gastro pub fare, some southwest flavors, beef tongue, etc.
