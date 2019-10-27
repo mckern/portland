@@ -174,10 +174,6 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Verde Cocina: Fresh Mexican food, vegan friendly!
  * [Vault](https://www.vaultpdx.com/) - Sister bar of @mrzarquon's favorite neighborhood bar [Vintage](http://vintagepdx.com/), great cocktails and happy hour food selection in the Pearl.
  * [Nong's Khao Man Gai](http://khaomangai.com/): A brick and mortar location, located a short walk from the original cart. You think this is just chicken and rice, but it's amazing chicken and rice. 
- * The Food Cart pod at SW 10th & Alder has some notable standouts.
-    - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
-    - [The Grilled Cheese Grill](http://grilledcheesegrill.com/): vegan friendly!
-    - [Wolf & Bear](http://www.eatwolfandbears.com/): vegan friendly!
 
 ## Close In SE
 ### Just over the river!
