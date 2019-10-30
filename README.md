@@ -128,6 +128,8 @@ Portland's often called "Brewvana" due to the amazing number of craft breweries 
 * [Deschutes](http://www.deschutesbrewery.com/pubs/portland/): One of the originators of NW craft brewing. Still kills it with a variety of styles, especially their Porters and Stouts. (The Pearl)
 * [Rogue Distillery and Public House](https://www.facebook.com/RoguePortland/events): Inexplicably popular; responsible for some of the least tasty "craft" beers I've ever had. Do not be tricked into buying the Voodoo Maple Bacon beer, it's disgusting.
 * [Wayfinder](https://www.wayfinder.beer/): good all-around selection with exceptional European styles (Central Eastside)
+* [Great Notion Brewery](https://greatnotion.com/): Lots of New England-style hazy IPAs with some excellent stouts and fruity sours as well. Recently opened up a second location in NW. (Alberta and NW/Slabtown)
+* [Little Beast Brewing](http://www.littlebeastbrewing.com/): Small but good selection of farmhouse ales and sours from an ex-Deschutes and Full Sail brewmaster, plus a lovely front lawn and solid food. (SE/Division)
 
 
 ## Beer/Cider Bars
