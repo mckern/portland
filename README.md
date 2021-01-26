@@ -1,6 +1,8 @@
 # Portland, Oregon, USA
 ## AKA the Good One &mdash; sorry Maine
 
+## HELLO, PLEASE NOTE THAT THIS IS VERY OUT OF DATE, AS THE PANDEMIC THAT STARTED IN 2020 HAS HOLLOWED OUT THE HOSPITALITY LANDSCAPE. THIS WILL BE UPDATED, BUT CONSIDER IT VERY, VERY OUT OF DATE FOR THE MOMENT, OK THANKS BYE.
+
 Hi! Hello! Welcome! Before we begin, the first thing we want you to understand is that **Voodoo Donuts is a tourist-trap** that sells tarted-up grocery store donuts and they aren't worth the line. We have much better [Donuts](#donut-shops).
 
 With that out of the way, we're happy to have you here. Here's a list of stuff to do in town.
